@@ -7,4 +7,5 @@
 您可以在这里提前获取我们的测试资源包
 
 **基岩版资源包即将到来**
+
 **BedRock Edition is comming soon.**
