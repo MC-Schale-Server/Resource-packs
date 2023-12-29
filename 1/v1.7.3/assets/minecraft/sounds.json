@@ -1,0 +1,242 @@
+{
+  "new.sounds.bobao": {
+    "sounds": [
+      {
+        "name": "metro/base/Site-broadcast"
+      } 
+    ],
+    "subtitle": "站点播报"
+  },
+  "new.sounds.phigros": {
+    "sounds": [
+      {
+        "name": "phigros"
+      }
+    ],
+    "subtitle": "Phigros，启动！"
+  },
+  "new.sounds.phigros3.0": {
+    "sounds": [
+      {
+        "name": "phigros3.0"
+      }
+    ],
+    "subtitle": "Phigros3.0，启动！"
+  },
+  "new.sounds.triangles": {
+    "sounds": [
+      {
+        "name": "triangles"
+      }
+    ],
+    "subtitle": "osu!(lazer)，启动！"
+  },
+  "metro.skl1": {
+    "sounds": [
+      {
+        "name": "metro/lineshimoekoharu/bxh/1"
+      } 
+    ],
+    "subtitle": "站点播报"
+  },
+  "metro.skl2": {
+    "sounds": [
+      {
+        "name": "metro/lineshimoekoharu/bxh/2"
+      } 
+    ],
+    "subtitle": "站点播报"
+  },
+  "metro.skl3": {
+    "sounds": [
+      {
+        "name": "metro/lineshimoekoharu/bxh/3"
+      } 
+    ],
+    "subtitle": "站点播报"
+  },
+  "metro.skl4": {
+    "sounds": [
+      {
+        "name": "metro/lineshimoekoharu/bxh/4"
+      } 
+    ],
+    "subtitle": "站点播报"
+  },
+  "metro.skl5": {
+    "sounds": [
+      {
+        "name": "metro/lineshimoekoharu/bxh/5"
+      } 
+    ],
+    "subtitle": "站点播报"
+  },
+  "metro.skl6": {
+    "sounds": [
+      {
+        "name": "metro/lineshimoekoharu/bxh/6"
+      } 
+    ],
+    "subtitle": "站点播报"
+  },
+  "metro.skl7": {
+    "sounds": [
+      {
+        "name": "metro/lineshimoekoharu/bxh/7"
+      } 
+    ],
+    "subtitle": "站点播报"
+  },
+  "metro.skl8": {
+    "sounds": [
+      {
+        "name": "metro/lineshimoekoharu/bxh/8"
+      } 
+    ],
+    "subtitle": "站点播报"
+  },
+  "metro.skl9": {
+    "sounds": [
+      {
+        "name": "metro/lineshimoekoharu/bxh/9"
+      } 
+    ],
+    "subtitle": "站点播报"
+  },
+  "metro.skl10": {
+    "sounds": [
+      {
+        "name": "metro/lineshimoekoharu/bxh/10"
+      } 
+    ],
+    "subtitle": "站点播报"
+  },
+  "metro.skl11": {
+    "sounds": [
+      {
+        "name": "metro/lineshimoekoharu/bxh/11"
+      } 
+    ],
+    "subtitle": "站点播报"
+  },
+  "metro.skl12": {
+    "sounds": [
+      {
+        "name": "metro/lineshimoekoharu/bxh/12"
+      } 
+    ],
+    "subtitle": "站点播报"
+  },
+  "metro.skr1": {
+    "sounds": [
+      {
+        "name": "metro/lineshimoekoharu/sp/1"
+      } 
+    ],
+    "subtitle": "站点播报"
+  },
+  "metro.skr2": {
+    "sounds": [
+      {
+        "name": "metro/lineshimoekoharu/sp/2"
+      } 
+    ],
+    "subtitle": "站点播报"
+  },
+  "metro.skr3": {
+    "sounds": [
+      {
+        "name": "metro/lineshimoekoharu/sp/3"
+      } 
+    ],
+    "subtitle": "站点播报"
+  },
+  "metro.skr4": {
+    "sounds": [
+      {
+        "name": "metro/lineshimoekoharu/sp/4"
+      } 
+    ],
+    "subtitle": "站点播报"
+  },
+  "metro.skr5": {
+    "sounds": [
+      {
+        "name": "metro/lineshimoekoharu/sp/5"
+      } 
+    ],
+    "subtitle": "站点播报"
+  },
+  "metro.skr6": {
+    "sounds": [
+      {
+        "name": "metro/lineshimoekoharu/sp/6"
+      } 
+    ],
+    "subtitle": "站点播报"
+  },
+  "metro.skr7": {
+    "sounds": [
+      {
+        "name": "metro/lineshimoekoharu/sp/7"
+      } 
+    ],
+    "subtitle": "站点播报"
+  },
+  "metro.skr8": {
+    "sounds": [
+      {
+        "name": "metro/lineshimoekoharu/sp/8"
+      } 
+    ],
+    "subtitle": "站点播报"
+  },
+  "metro.skr9": {
+    "sounds": [
+      {
+        "name": "metro/lineshimoekoharu/sp/9"
+      } 
+    ],
+    "subtitle": "站点播报"
+  },
+  "metro.skr10": {
+    "sounds": [
+      {
+        "name": "metro/lineshimoekoharu/sp/10"
+      } 
+    ],
+    "subtitle": "站点播报"
+  },
+  "metro.skr11": {
+    "sounds": [
+      {
+        "name": "metro/lineshimoekoharu/sp/11"
+      } 
+    ],
+    "subtitle": "站点播报"
+  },
+  "metro.skr12": {
+    "sounds": [
+      {
+        "name": "metro/lineshimoekoharu/sp/12"
+      } 
+    ],
+    "subtitle": "站点播报"
+  },
+  "entity.tnt.primed": {
+    "sounds": [
+      {
+        "name": "others/C4"
+      } 
+    ],
+    "subtitle": "C4安放"
+  },
+  "entity.creeper.primed": {
+    "sounds": [
+      {
+        "name": "others/gogogo"
+      } 
+    ],
+    "subtitle": "出发！"
+  }
+}
