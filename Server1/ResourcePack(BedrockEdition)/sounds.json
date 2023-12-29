@@ -1,0 +1,47 @@
+{
+  "new.sounds.bobao": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "sounds/metro/base/Site-broadcast",
+        "stream":true
+      }
+    ]
+  },
+  "new.sounds.phigros": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "sounds/phigros",
+        "stream":true
+      }
+    ]
+  },
+  "new.sounds.phigros3.0": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "sounds/phigros3.0",
+        "stream":true
+      }
+    ]
+  },
+  "new.sounds.triangles": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "sounds/bgm/2",
+        "stream":true
+      }
+    ]
+  },
+  "minecraft.bgm.2": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "sounds/bgm/2",
+        "stream":true
+      }
+    ]
+  }
+}
