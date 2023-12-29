@@ -1,4 +1,4 @@
-![image](https://github.com/MC-Schale/Resource-pack/assets/62281844/1e35f29c-6c7b-4d0d-9b75-d2327c134ae0)## 更新日志
+## 更新日志
 
 ### v1.7.3(2023/12/29)
 
