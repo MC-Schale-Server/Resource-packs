@@ -1,3 +1,5 @@
+## 更新日志(Bedrock Edition)
+
 ### a0.0.1 build.4(2023/12/30)
 
  - 此版本由 `TPOD` 构建
