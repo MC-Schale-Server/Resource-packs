@@ -1,5 +1,11 @@
 ## 更新日志(Bedrock Edition)
 
+### a0.0.1 build.7(2023/12/30)
+
+- 此版本由 `TPOD` 构建
+- 此版本重构了 `sound_definitions.json`
+- 计划在下一个版本前测试新增音频的可行性
+
 ### a0.0.1 build.6(2023/12/30)
 
  - 此版本由 `TPOD` 构建
