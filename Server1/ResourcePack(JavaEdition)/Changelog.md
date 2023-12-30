@@ -1,5 +1,10 @@
 ## 更新日志(Java Edition)
 
+### r1.7.6(2023/12/30)
+
+ - 此版本由 `bdlvl` 构建
+ - 删除了 `textures\painting` 中原版的画
+
 ### b1.7.6 build.2(2023/12/30)
 
  - 此版本由 `TPOD` 构建
