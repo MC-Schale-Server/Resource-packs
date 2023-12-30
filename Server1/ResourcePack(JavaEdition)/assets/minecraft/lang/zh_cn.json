@@ -3010,7 +3010,7 @@
     "death.fell.finish.item": "%1$s摔伤得太重并被%2$s用%3$s完结了生命",
     "death.fell.killer": "%1$s注定要摔死",
     "deathScreen.quit.confirm": "你确定要退出吗？",
-    "deathScreen.respawn": "产卵",
+    "deathScreen.respawn": "重生",
     "deathScreen.score": "分数",
     "deathScreen.score.value": "分数：%s",
     "deathScreen.spectate": "旁观世界",
