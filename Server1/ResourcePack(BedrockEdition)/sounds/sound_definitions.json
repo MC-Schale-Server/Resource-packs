@@ -1,227 +1,282 @@
 {
-  "format_version": "1.14.0",
   "new.sounds.bobao": {
-    "mob.teal.step": {
-      "category": "player",
-      "sounds": [
-        "sounds/metro/base/Site-broadcast"
-      ]
-    }
+    "category": "player",
+    "min_distance": 1000.0,
+    "sounds": [
+      {
+        "name": "sounds/metro/base/Site-broadcast",
+        "stream":true
+      }
+    ]
   },
   "new.sounds.phigros": {
-    "mob.teal.step": {
-      "category": "player",
-      "sounds": [
-        "sounds/phigros"
-      ]
-    }
+    "category": "player",
+    "min_distance": 1000.0,
+    "sounds": [
+      {
+        "name": "sounds/phigros",
+        "stream":true
+      }
+    ]
   },
   "new.sounds.phigros3.0": {
-    "mob.teal.step": {
-      "category": "player",
-      "sounds": [
-        "sounds/phigros3.0"
-      ]
-    }
+    "category": "player",
+    "min_distance": 1000.0,
+    "sounds": [
+      {
+        "name": "sounds/phigros3.0",
+        "stream":true
+      }
+    ]
   },
   "new.sounds.triangles": {
-    "mob.teal.step": {
-      "category": "player",
-      "sounds": [
-        "sounds/triangles"
-      ]
-    }
+    "category": "player",
+    "min_distance": 1000.0,
+    "sounds": [
+      {
+        "name": "sounds/triangles",
+        "stream":true
+      }
+    ]
   },
   "metro.skl1": {
-    "mob.teal.step": {
-      "category": "player",
-      "sounds": [
-        "sounds/metro/lineshimoekoharu/bxh/1"
-      ]
-    }
+    "category": "player",
+    "min_distance": 1000.0,
+    "sounds": [
+      {
+        "name": "sounds/metro/lineshimoekoharu/bxh/1",
+        "stream":true
+      }
+    ]
   },
   "metro.skl2": {
-    "mob.teal.step": {
-      "category": "player",
-      "sounds": [
-        "sounds/metro/lineshimoekoharu/bxh/2"
-      ]
-    }
+    "category": "player",
+    "min_distance": 1000.0,
+    "sounds": [
+      {
+        "name": "sounds/metro/lineshimoekoharu/bxh/2",
+        "stream":true
+      }
+    ]
   },
   "metro.skl3": {
-    "mob.teal.step": {
-      "category": "player",
-      "sounds": [
-        "sounds/metro/lineshimoekoharu/bxh/3"
-      ]
-    }
+    "category": "player",
+    "min_distance": 1000.0,
+    "sounds": [
+      {
+        "name": "sounds/metro/lineshimoekoharu/bxh/3",
+        "stream":true
+      }
+    ]
   },
   "metro.skl4": {
-    "mob.teal.step": {
-      "category": "player",
-      "sounds": [
-        "sounds/metro/lineshimoekoharu/bxh/4"
-      ]
-    }
+    "category": "player",
+    "min_distance": 1000.0,
+    "sounds": [
+      {
+        "name": "sounds/metro/lineshimoekoharu/bxh/4",
+        "stream":true
+      }
+    ]
   },
   "metro.skl5": {
-    "mob.teal.step": {
-      "category": "player",
-      "sounds": [
-        "sounds/metro/lineshimoekoharu/bxh/5"
-      ]
-    }
+    "category": "player",
+    "min_distance": 1000.0,
+    "sounds": [
+      {
+        "name": "sounds/metro/lineshimoekoharu/bxh/5",
+        "stream":true
+      }
+    ]
   },
   "metro.skl6": {
-    "mob.teal.step": {
-      "category": "player",
-      "sounds": [
-        "sounds/metro/lineshimoekoharu/bxh/6"
-      ]
-    }
+    "category": "player",
+    "min_distance": 1000.0,
+    "sounds": [
+      {
+        "name": "sounds/metro/lineshimoekoharu/bxh/6",
+        "stream":true
+      }
+    ]
   },
   "metro.skl7": {
-    "mob.teal.step": {
-      "category": "player",
-      "sounds": [
-        "sounds/metro/lineshimoekoharu/bxh/7"
-      ]
-    }
+    "category": "player",
+    "min_distance": 1000.0,
+    "sounds": [
+      {
+        "name": "sounds/metro/lineshimoekoharu/bxh/7",
+        "stream":true
+      }
+    ]
   },
   "metro.skl8": {
-    "mob.teal.step": {
-      "category": "player",
-      "sounds": [
-        "sounds/metro/lineshimoekoharu/bxh/8"
-      ]
-    }
+    "category": "player",
+    "min_distance": 1000.0,
+    "sounds": [
+      {
+        "name": "sounds/metro/lineshimoekoharu/bxh/8",
+        "stream":true
+      }
+    ]
   },
   "metro.skl9": {
-    "mob.teal.step": {
-      "category": "player",
-      "sounds": [
-        "sounds/metro/lineshimoekoharu/bxh/9"
-      ]
-    }
+    "category": "player",
+    "min_distance": 1000.0,
+    "sounds": [
+      {
+        "name": "sounds/metro/lineshimoekoharu/bxh/9",
+        "stream":true
+      }
+    ]
   },
   "metro.skl10": {
-    "mob.teal.step": {
-      "category": "player",
-      "sounds": [
-        "sounds/metro/lineshimoekoharu/bxh/10"
-      ]
-    }
+    "category": "player",
+    "min_distance": 1000.0,
+    "sounds": [
+      {
+        "name": "sounds/metro/lineshimoekoharu/bxh/10",
+        "stream":true
+      }
+    ]
   },
   "metro.skl11": {
-    "mob.teal.step": {
-      "category": "player",
-      "sounds": [
-        "sounds/metro/lineshimoekoharu/bxh/11"
-      ]
-    }
+    "category": "player",
+    "min_distance": 1000.0,
+    "sounds": [
+      {
+        "name": "sounds/metro/lineshimoekoharu/bxh/11",
+        "stream":true
+      }
+    ]
   },
   "metro.skl12": {
-    "mob.teal.step": {
-      "category": "player",
-      "sounds": [
-        "sounds/metro/lineshimoekoharu/bxh/12"
-      ]
-    }
+    "category": "player",
+    "min_distance": 1000.0,
+    "sounds": [
+      {
+        "name": "sounds/metro/lineshimoekoharu/bxh/12",
+        "stream":true
+      }
+    ]
   },
   "metro.skr1": {
-    "mob.teal.step": {
-      "category": "player",
-      "sounds": [
-        "sounds/metro/lineshimoekoharu/sp/1"
-      ]
-    }
+    "category": "player",
+    "min_distance": 1000.0,
+    "sounds": [
+      {
+        "name": "sounds/metro/lineshimoekoharu/sp/1",
+        "stream":true
+      }
+    ]
   },
   "metro.skr2": {
-    "mob.teal.step": {
-      "category": "player",
-      "sounds": [
-        "sounds/metro/lineshimoekoharu/sp/2"
-      ]
-    }
+    "category": "player",
+    "min_distance": 1000.0,
+    "sounds": [
+      {
+        "name": "sounds/metro/lineshimoekoharu/sp/2",
+        "stream":true
+      }
+    ]
   },
   "metro.skr3": {
-    "mob.teal.step": {
-      "category": "player",
-      "sounds": [
-        "sounds/metro/lineshimoekoharu/sp/3"
-      ]
-    }
+    "category": "player",
+    "min_distance": 1000.0,
+    "sounds": [
+      {
+        "name": "sounds/metro/lineshimoekoharu/sp/3",
+        "stream":true
+      }
+    ]
   },
   "metro.skr4": {
-    "mob.teal.step": {
-      "category": "player",
-      "sounds": [
-        "sounds/metro/lineshimoekoharu/sp/4"
-      ]
-    }
+    "category": "player",
+    "min_distance": 1000.0,
+    "sounds": [
+      {
+        "name": "sounds/metro/lineshimoekoharu/sp/4",
+        "stream":true
+      }
+    ]
   },
   "metro.skr5": {
-    "mob.teal.step": {
-      "category": "player",
-      "sounds": [
-        "sounds/metro/lineshimoekoharu/sp/5"
-      ]
-    }
+    "category": "player",
+    "min_distance": 1000.0,
+    "sounds": [
+      {
+        "name": "sounds/metro/lineshimoekoharu/sp/5",
+        "stream":true
+      }
+    ]
   },
   "metro.skr6": {
-    "mob.teal.step": {
-      "category": "player",
-      "sounds": [
-        "sounds/metro/lineshimoekoharu/sp/6"
-      ]
-    }
+    "category": "player",
+    "min_distance": 1000.0,
+    "sounds": [
+      {
+        "name": "sounds/metro/lineshimoekoharu/sp/6",
+        "stream":true
+      }
+    ]
   },
   "metro.skr7": {
-    "mob.teal.step": {
-      "category": "player",
-      "sounds": [
-        "sounds/metro/lineshimoekoharu/sp/7"
-      ]
-    }
+    "category": "player",
+    "min_distance": 1000.0,
+    "sounds": [
+      {
+        "name": "sounds/metro/lineshimoekoharu/sp/7",
+        "stream":true
+      }
+    ]
   },
   "metro.skr8": {
-    "mob.teal.step": {
-      "category": "player",
-      "sounds": [
-        "sounds/metro/lineshimoekoharu/sp/8"
-      ]
-    }
+    "category": "player",
+    "min_distance": 1000.0,
+    "sounds": [
+      {
+        "name": "sounds/metro/lineshimoekoharu/sp/8",
+        "stream":true
+      }
+    ]
   },
   "metro.skr9": {
-    "mob.teal.step": {
-      "category": "player",
-      "sounds": [
-        "sounds/metro/lineshimoekoharu/sp/9"
-      ]
-    }
+    "category": "player",
+    "min_distance": 1000.0,
+    "sounds": [
+      {
+        "name": "sounds/metro/lineshimoekoharu/sp/9",
+        "stream":true
+      }
+    ]
   },
   "metro.skr10": {
-    "mob.teal.step": {
-      "category": "player",
-      "sounds": [
-        "sounds/metro/lineshimoekoharu/sp/10"
-      ]
-    }
+    "category": "player",
+    "min_distance": 1000.0,
+    "sounds": [
+      {
+        "name": "sounds/metro/lineshimoekoharu/sp/10",
+        "stream":true
+      }
+    ]
   },
   "metro.skr11": {
-    "mob.teal.step": {
-      "category": "player",
-      "sounds": [
-        "sounds/metro/lineshimoekoharu/sp/11"
-      ]
-    }
+    "category": "player",
+    "min_distance": 1000.0,
+    "sounds": [
+      {
+        "name": "sounds/metro/lineshimoekoharu/sp/11",
+        "stream":true
+      }
+    ]
   },
   "metro.skr12": {
-    "mob.teal.step": {
-      "category": "player",
-      "sounds": [
-        "sounds/metro/lineshimoekoharu/sp/12"
-      ]
-    }
+    "category": "player",
+    "min_distance": 1000.0,
+    "sounds": [
+      {
+        "name": "sounds/metro/lineshimoekoharu/sp/12",
+        "stream":true
+      }
+    ]
   }
 }
