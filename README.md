@@ -1,5 +1,11 @@
 # Resource-Pack
 
+<div align="center">
+ <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/MC-Schale/Resource-pack?style=for-the-badge"> 
+ <img alt="GitHub" src="https://img.shields.io/github/license/MC-Schale/Resource-pack?style=for-the-badge"> 
+ <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/MC-Schale/Resource-pack?style=for-the-badge"> 
+</div>
+
 ## 简介
 
 这里是 `MC-Schale` 服务器资源包构建库
