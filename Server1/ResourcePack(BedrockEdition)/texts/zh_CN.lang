@@ -3841,8 +3841,8 @@ howtoplay.pets.text.3=猫是出没于村庄中的中立型生物。它们会攻�
 howtoplay.pets.header.4=鹦鹉	#
 howtoplay.pets.text.4=鹦鹉是居住在丛林中的被动型生物。它们会模仿所在区域中的任何其他生物。它们最喜欢种子，给它们喂一些种子来驯服它们。鹦鹉还会站在您的肩膀上……是的，您可以让多只鹦鹉站在您的肩膀上。	#
 
-howtoplay.raids=劫掠	#
-howtoplay.raids.title=游戏指南：劫掠	#
+howtoplay.raids=行动	#
+howtoplay.raids.title=游戏指南：行动	#
 howtoplay.raids.text.1=在探索世界的过程中，您可能会遇到掠夺者的营地或巡逻队。掠夺者总是在寻找村庄进行袭击，携带他们的旗帜会引起他们的注意，他们还可能会选择袭击附近的村庄。	#
 howtoplay.raids.text.2=一定要保卫您的村庄，如果您击败了所有的劫掠者，攻击就会停止。	#
 howtoplay.raids.header.1=英雄救我	#
@@ -7089,11 +7089,11 @@ quiz.popup.ok=参加测验	#
 quiz.popup.text=测验将在新窗口中打开。 完成测验后您就可以返回《我的世界》了。	#
 quiz.popup.title=测验	#
 
-raid.name=劫掠	#
-raid.progress=剩余生物：	#
-raid.expiry=一个副本已过期	#
-raid.victory=胜利	#
-raid.defeat=失败	#
+raid.name=行动	#
+raid.progress=剩余地方士兵数：	#
+raid.expiry=撤离此区域	#
+raid.victory=已镇守此区域	#
+raid.defeat=地区已沦陷	#
 
 recipeBook.setting.full=满	#
 recipeBook.setting.discover=发现	#
