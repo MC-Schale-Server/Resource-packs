@@ -26,4 +26,4 @@
 
 我们欢迎您测试使用我们的资源包！
 
-**如果遇到问题（不论是资源包的问题还是服务器相关的问题），您都可以提交 [议题](https://github.com/MC-Schale/Resource-pack/issues) ，我们会及时检查问题，给出相关答复，修复出现的问题。**
+**如果遇到问题（不论是资源包的问题还是服务器相关的问题），您都可以提交 [Issues](https://github.com/MC-Schale/Resource-pack/issues) ，我们会及时检查问题，给出相关答复，修复出现的问题。**
