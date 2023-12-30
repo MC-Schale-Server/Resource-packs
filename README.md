@@ -1,5 +1,7 @@
 # Resource-Pack
 
+## 简介
+
 这里是 `MC-Schale` 服务器资源包构建库
 
 在这里，你可以看到我们进行的和准备进行的一切修改
@@ -10,6 +12,12 @@
 
 **BedRock Edition is in alpha now.**
 
-# 我们欢迎您测试使用我们的资源包！
+## 下载
 
-**如果遇到问题（不论是资源包的问题还是服务器相关的问题），您都可以提交于 `Issues` ，我们会及时检查问题，给出相关答复，修复出现的问题。**
+您可以通过 [Release](https://github.com/MC-Schale/Resource-pack/releases) 来下载资源包文件
+
+## 测试
+
+我们欢迎您测试使用我们的资源包！
+
+**如果遇到问题（不论是资源包的问题还是服务器相关的问题），您都可以提交 [议题](https://github.com/MC-Schale/Resource-pack/issues) ，我们会及时检查问题，给出相关答复，修复出现的问题。**
