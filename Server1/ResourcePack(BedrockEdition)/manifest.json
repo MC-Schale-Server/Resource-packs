@@ -4,14 +4,14 @@
         "name": "MC-Schale服务器BE资源包",
         "description": "MC-Schale服务器BE资源包更新日志在资源包中的Changelog.md文件中",
         "uuid": "023af8db-c953-4e01-8416-33eb54ba675f",
-        "version": [ 0, 0, 1 ],
+        "version": [ 0, 1, 0 ],
         "min_engine_version": [ 1, 20, 1 ]
     },
     "modules": [
         {
             "type": "resources",
             "uuid": "906ba247-eaf2-412c-ba4a-8577c29631f7",
-            "version": [ 0, 0, 1 ]
+            "version": [ 0, 1, 0 ]
         }
     ]
 }
