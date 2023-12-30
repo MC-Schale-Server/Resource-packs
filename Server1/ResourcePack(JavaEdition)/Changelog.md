@@ -1,5 +1,10 @@
 ## 更新日志(Java Edition)
 
+### b1.7.6 build.1(2023/12/30)
+
+ - 此版本由 `bdlvl` 构建
+ - 修改了 `gui\title\minecraft` 与 `gui\title\edition` 的材质
+
 ### r1.7.5(2023/12/30)
 
  - 此版本无任何更新内容
