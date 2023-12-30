@@ -2523,7 +2523,7 @@ death.fell.killer=%1$s 注定要摔死	#
 
 deathScreen.deleteWorld=删除世界	#
 deathScreen.hardcoreInfo=你不可在极限模式中重生！	#
-deathScreen.leaveServer=退出服务器	#
+deathScreen.leaveServer=离开MC-Schale服务器	#
 deathScreen.message=你失败了！	#
 deathScreen.quit=主菜单	#
 deathScreen.quit.confirm=你确定要退出吗？	#
