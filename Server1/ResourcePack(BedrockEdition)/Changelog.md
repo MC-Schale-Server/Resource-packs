@@ -1,4 +1,4 @@
-## 更新日志 `Bedrock Edition`+
+## 更新日志 `Bedrock Edition`
 
 ### r1.0.1 `2023/12/31`
 
