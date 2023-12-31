@@ -238,5 +238,51 @@
       } 
     ],
     "subtitle": "出发！"
-  }
+  },
+    "ui.button.click": {
+        "sounds": [
+            {
+                "name": "Character/JP_Momoi/Momoi_Title",
+                "stream": true,
+                "weight": 1000
+            },
+            {
+                "name": "Character/JP_Momoi/Momoi_Title",
+                "stream": true,
+                "weight": 1
+            },
+            {
+                "name": "Character/JP_Momoi/Momoi_Title",
+                "stream": true,
+                "weight": 1000
+            },
+            {
+                "name": "Character/JP_Momoi/Momoi_Title",
+                "weight": 1000
+            },
+            {
+                "name": "Character/JP_Momoi/Momoi_Title",
+                "weight": 1000,
+                "volume": 1
+            },
+            {
+                "name": "Character/JP_Momoi/Momoi_Title",
+                "weight": 750,
+                "volume": 1
+            },
+            {
+                "name": "Character/JP_Momoi/Momoi_Title",
+                "weight": 1000
+            },
+            {
+                "name": "Character/JP_Momoi/Momoi_Title",
+                "weight": 1000
+            },
+            {
+                "name": "Character/JP_Momoi/Momoi_Title",
+                "weight": 1000,
+                "volume": 1
+            }
+        ]
+    }
 }
