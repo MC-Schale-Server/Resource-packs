@@ -1,0 +1,57 @@
+{
+    "ui.button.click": {
+        "sounds": [
+            {
+                "name": "whaaaaat",
+                "stream": true,
+                "weight": 1000
+            },
+            {
+                "name": "peach",
+                "stream": true,
+                "weight": 1
+            },
+            {
+                "name": "yeet",
+                "stream": true,
+                "weight": 1000
+            },
+            {
+                "name": "ding",
+                "weight": 1000
+            },
+            {
+                "name": "ghost",
+                "weight": 1000,
+                "volume": 1
+            },
+            {
+                "name": "yee",
+                "weight": 750,
+                "volume": 1
+            },
+            {
+                "name": "random/anvil_land",
+                "weight": 1000
+            },
+            {
+                "name": "random/explode1",
+                "weight": 1000
+            },
+            {
+                "name": "random/fuse",
+                "weight": 1000,
+                "volume": 1
+            }
+        ]
+    },
+    "copyright": {
+        "sounds": [
+            {
+                "name": "copyright",
+                "volume": 0.5,
+                "stream": true
+            }
+        ]
+    }
+}
