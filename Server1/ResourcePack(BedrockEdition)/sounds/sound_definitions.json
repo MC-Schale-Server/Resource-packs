@@ -278,5 +278,33 @@
         "stream":true
       }
     ]
+  },
+  "fix.creeper.death": {
+    "sounds": [
+      {
+        "name": "sounds/mob/creeper/death",
+        "stream":true
+      }
+    ]
+  },
+  "fix.skeleton.death": {
+    "sounds": [
+      {
+        "name": "sounds/mob/skeleton/death.ogg",
+        "stream":true
+      }
+    ]
+  },
+  "fix.random.primed": {
+    "sounds": [
+      {
+        "name": "sounds/others/C4.ogg",
+        "stream":true
+      },
+      {
+        "name": "sounds/others/gogogo.ogg",
+        "stream":true
+      }
+    ]
   }
 }
