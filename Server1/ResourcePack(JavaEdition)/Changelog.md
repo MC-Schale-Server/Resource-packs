@@ -1,5 +1,10 @@
 ## 更新日志 `Java Edition`
 
+### b1.7.6 rebuild.2 `2023/12/31`
+
+ - 此版本由 `KFACBT` 创建
+ - 更新 `end.txt` 格式 **仅测试**
+
 ### b1.7.6 rebuild.2 `2023/12/30`
 
  - 此版本由 `KFACBT` 创建
