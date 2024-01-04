@@ -1,5 +1,10 @@
 ## 更新日志 `Java Edition`
 
+### b1.7.8 rebuild.2 `2024/01/01`
+
+ - 此版本由 `KFACBT` 构建
+ - 更改了 `音乐唱片 - Blocks` 的音乐以及翻译，改为 `Daily Routine 247`
+
 ### b1.7.8 rebuild.1 `2024/01/01`
 
  - 此版本由 `KFACBT` 构建
