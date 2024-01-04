@@ -22,6 +22,8 @@
 
 您可以通过 [Release](https://github.com/MC-Schale/Resource-pack/releases) 来下载资源包文件
 
+您也可以通过下载整个库中的内容来自定义您需要的内容，您可以在这里下载到我们引用到的Sample文件
+
 ## 测试
 
 我们欢迎您测试使用我们的资源包！
