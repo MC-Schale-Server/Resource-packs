@@ -1,5 +1,5 @@
 {
-  "new.sounds.bobao": {
+  "metro.other.announcement": {
     "category": "player",
     "min_distance": 1000.0,
     "sounds": [

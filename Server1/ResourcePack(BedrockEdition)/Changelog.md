@@ -1,5 +1,13 @@
 ## 更新日志 `Bedrock Edition`
 
+### b1.1.0 build.1 `2024/01/04`
+
+ - 此版本由 `TPOD` 构建
+ - 同步修改 `new.sounds.bobao` 为 `metro.other.announcement`
+ - ATTENTION:从此版本起调用该音频的指令发生改变，使用时请注意修改
+ - 同步版本（JE: `b1.7.10 build.1`）
+ - PLAN:JE、BE资源包同步版本号暂定于1.9.X
+
 ### r1.0.1 `2023/12/31`
 
  - 本版本 `无任何更新`
