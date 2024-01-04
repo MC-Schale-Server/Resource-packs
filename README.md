@@ -12,11 +12,11 @@
 
 在这里，你可以看到我们进行的和准备进行的一切修改
 
-您可以在这里提前获取我们的测试资源包
+您也可以在这里提前获取我们的测试资源包
 
-**基岩版资源包已在初步构建版本中**
+**基岩版资源包初个正式版已发布**
 
-**BedRock Edition is in alpha now.**
+**First Release version for BedRock Edition has been released now.**
 
 ## 下载
 
