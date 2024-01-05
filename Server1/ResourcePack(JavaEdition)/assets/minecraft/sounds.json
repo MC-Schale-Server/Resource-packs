@@ -223,7 +223,7 @@
     ],
     "subtitle": "站点播报"
   },
-  "entity.tnt.primed": {
+  "fix.tnt.primed": {
     "sounds": [
       {
         "name": "others/C4"
@@ -231,13 +231,29 @@
     ],
     "subtitle": "C4安放"
   },
-  "entity.creeper.primed": {
+  "fix.creeper.primed": {
     "sounds": [
       {
         "name": "others/gogogo"
       } 
     ],
     "subtitle": "出发！"
+  },
+  "fix.skeleton.death": {
+    "sounds": [
+      {
+        "name": "others/dududadudadu"
+      }
+    ],
+    "subtitle": "DoDuDaDuDaDu"
+  },
+  "fix.creeper.death": {
+    "sounds": [
+      {
+        "name": "others/enermy_down"
+      }
+    ],
+    "subtitle": "DoDuDaDuDaDu"
   },
   "ui.button.click": {
     "sounds": [
