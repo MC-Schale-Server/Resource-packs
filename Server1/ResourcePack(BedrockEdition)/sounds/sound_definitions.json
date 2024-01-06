@@ -282,7 +282,7 @@
   "fix.creeper.death": {
     "sounds": [
       {
-        "name": "sounds/mob/creeper/death",
+        "name": "sounds/others/enermy_down",
         "stream":true
       }
     ]
@@ -290,17 +290,21 @@
   "fix.skeleton.death": {
     "sounds": [
       {
-        "name": "sounds/mob/skeleton/death.ogg",
+        "name": "sounds/others/dududadudadu.ogg",
         "stream":true
       }
     ]
   },
-  "fix.random.primed": {
+  "fix.tnt.primed": {
     "sounds": [
       {
         "name": "sounds/others/C4.ogg",
         "stream":true
-      },
+      }
+    ]
+  },
+  "fix.creeper.primed": {
+    "sounds": [
       {
         "name": "sounds/others/gogogo.ogg",
         "stream":true
