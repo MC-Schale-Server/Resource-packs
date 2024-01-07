@@ -6,6 +6,10 @@
  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/MC-Schale/Resource-pack?style=for-the-badge"> 
 </div>
 
+## 重要通知
+
+**此存储库停止更新，恢复时间待定。**
+
 ## 简介
 
 这里是 `MC-Schale` 服务器资源包构建库
