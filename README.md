@@ -14,9 +14,9 @@
 
 您也可以在这里提前获取我们的 `测试资源包`
 
-**基岩版资源包的第一个正式版已发布**
+**基岩版资源包正式版已发布，即将实装**
 
-**First version for BedRock Edition has been released now.**
+**Resource Park for BedRock Edition has been released now,it will comming soon in Server 1.**
 
 ## 下载
 
@@ -28,7 +28,7 @@
 
 我们欢迎您测试使用我们的资源包！
 
-*请注意，经验证的未成功的功能会以fault（斜体）来标注*
+*请注意，经验证的未实现的功能会以fault（斜体）来标注*
 
 **如果遇到问题 *（不论是资源包的问题还是服务器相关的问题）* ，您都可以在 [Issues](https://github.com/MC-Schale/Resource-pack/issues) 中提交相关的问题，我们会及时检查出现问题，并给出相关答复，同时修复出现的问题。**
 
