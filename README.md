@@ -22,11 +22,11 @@
 
 您可以通过 [Release](https://github.com/MC-Schale/Resource-pack/releases) 来下载资源包文件
 
-您也可以通过下载整个 `存储库` 中的内容来自定义您需要的内容，您可以在这个库中下载到我们引用到的 `参考模板` 或 `引用到的文件` ，具体内容请参考  [Source.md](https://github.com/MC-Schale/Resource-pack/blob/main/Samples%2FSource.md) 中的相关内容
+您也可以通过下载整个 `存储库` 中的内容来自定义您需要的内容，您可以在这个库中下载到我们引用到的 `参考模板` 或 `引用到的文件` ，相关内容请参考  [Source.md](https://github.com/MC-Schale/Resource-pack/blob/main/Samples%2FSource.md) 中的相关内容
 
 ## 测试
 
-我们欢迎您测试使用我们的资源包！
+我们欢迎您测试并使用使用我们的资源包！
 
 *请注意，经验证的未实现的功能会以fault（斜体）来标注*
 
