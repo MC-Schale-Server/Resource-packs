@@ -38,6 +38,8 @@
 
 [基岩版资源包](https://github.com/MC-Schale/Resource-pack/blob/main/Server1/ResourcePack(BedrockEdition)/Changelog.md)
 
+[圆转方资源包](https://github.com/MC-Schale/Resource-pack/blob/main/%E5%9C%86%E8%BD%AC%E6%96%B9%E6%8B%93%E5%B1%95%E5%8C%85%20For%20Java%20Edition/Changelog.md)
+
 ## 相关链接
 
 [构建规则](https://github.com/MC-Schale/Resource-pack/blob/main/Rules.md)
