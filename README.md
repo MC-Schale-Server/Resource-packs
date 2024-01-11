@@ -32,6 +32,11 @@
 
 **如果遇到问题 *（不论是资源包的问题还是服务器相关的问题）* ，您都可以在 [Issues](https://github.com/MC-Schale/Resource-pack/issues) 中提交相关的问题，我们会及时检查出现问题，并给出相关答复，同时修复出现的问题。**
 
+## 更新日志
+
+[Java版资源包](https://github.com/MC-Schale/Resource-pack/blob/main/Server1/ResourcePack(JavaEdition)/Changelog.md)
+[基岩版资源包](https://github.com/MC-Schale/Resource-pack/blob/main/Server1%2FResourcePack%28BedrockEdition%29%2FChangelog.md)
+
 ## 相关链接
 
 [构建规则](https://github.com/MC-Schale/Resource-pack/blob/main/Rules.md)
