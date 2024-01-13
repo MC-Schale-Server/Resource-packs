@@ -4,6 +4,12 @@
 
  - JE、BE资源包同步版本号暂定于 `1.9.X`
 
+### b1.7.10 build.5 `2024/01/14`
+
+ - 此版本由 `bdlvl` 构建
+ - 将 `gui\title\minecraft.png` 中的材质移至 `gui\title\edition.png` 
+ - 更改 `gui\title\minecraft.png` 的材质为 `MC-SchaleLogo`
+
 ### b1.7.10 build.4 `2024/01/11`
 
  - 此版本由 `TPOD` 构建
@@ -103,7 +109,7 @@
 ### b1.7.6 build.1 `2023/12/30`
 
  - 此版本由 `bdlvl` 构建
- - 修改了 `gui\title\minecraft` 与 `gui\title\edition` 的材质
+ - 修改了 `gui\title\minecraft.png` 与 `gui\title\edition.png` 的材质
 
 ### r1.7.5 `2023/12/30`
 
@@ -125,7 +131,7 @@
 ### b1.7.5 build.1 `2023/12/30`
 
  - 此版本由 `bdlvl` 构建
- - 修改了 `entity\signs\warped.png` 与 `item\warped_sign` 的材质
+ - 修改了 `entity\signs\warped.png` 与 `item\warped_sign.png` 的材质
  - 更改了 `zh_cn.json` 中 `（墙上的）诡异木告示牌` 的名称为 `（墙上的）道路指示牌`
 
 ### b1.7.4 build.2 `2023/12/29`
