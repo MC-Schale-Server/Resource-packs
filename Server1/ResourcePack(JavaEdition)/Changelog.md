@@ -9,6 +9,7 @@
  - 此版本由 `bdlvl` 构建
  - 将 `gui\title\minecraft.png` 中的材质移至 `gui\title\edition.png` 
  - 更改 `gui\title\minecraft.png` 的材质为 `MC-SchaleLogo`
+ - 同步更新版本（BE: `b1.3.0 build.2` ）
 
 ### b1.7.10 build.4 `2024/01/11`
 

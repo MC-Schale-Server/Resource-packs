@@ -4,6 +4,12 @@
 
  - JE、BE资源包同步版本号暂定于 `1.9.X`
 
+### b1.3.0 build.2 `2024/01/11`
+
+ - 此版本由 `TPOD` 构建
+ - 同步更改 `gui\title\minecraft.png` 的材质为 `MC-SchaleLogo`
+ - 同步更新版本（JE: `b1.7.10 build.5`）
+
 ### b1.3.0 build.1 `2024/01/11`
 
  - 此版本由 `TPOD` 构建
