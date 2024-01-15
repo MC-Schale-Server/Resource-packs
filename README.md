@@ -43,3 +43,5 @@
 ## 相关链接
 
 [构建规则](https://github.com/MC-Schale/Resource-pack/blob/main/Rules.md)
+
+[其他文件](https://github.com/MC-Schale/Resource-pack/blob/main/Others/Illustrate.md)
