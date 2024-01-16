@@ -34,7 +34,7 @@
   "metro.skl1": {
     "sounds": [
       {
-        "name": "metro/line/1_shimoekoharu/bxh/1"
+        "name": "metro/line/1_shimoekoharu/sp_bxh/1"
       } 
     ],
     "subtitle": "站点播报"
@@ -42,7 +42,7 @@
   "metro.skl2": {
     "sounds": [
       {
-        "name": "metro/line/1_shimoekoharu/bxh/2"
+        "name": "metro/line/1_shimoekoharu/sp_bxh/2"
       } 
     ],
     "subtitle": "站点播报"
@@ -50,7 +50,7 @@
   "metro.skl3": {
     "sounds": [
       {
-        "name": "metro/line/1_shimoekoharu/bxh/3"
+        "name": "metro/line/1_shimoekoharu/sp_bxh/3"
       } 
     ],
     "subtitle": "站点播报"
@@ -58,7 +58,7 @@
   "metro.skl4": {
     "sounds": [
       {
-        "name": "metro/line/1_shimoekoharu/bxh/4"
+        "name": "metro/line/1_shimoekoharu/sp_bxh/4"
       } 
     ],
     "subtitle": "站点播报"
@@ -66,7 +66,7 @@
   "metro.skl5": {
     "sounds": [
       {
-        "name": "metro/line/1_shimoekoharu/bxh/5"
+        "name": "metro/line/1_shimoekoharu/sp_bxh/5"
       } 
     ],
     "subtitle": "站点播报"
@@ -74,7 +74,7 @@
   "metro.skl6": {
     "sounds": [
       {
-        "name": "metro/line/1_shimoekoharu/bxh/6"
+        "name": "metro/line/1_shimoekoharu/sp_bxh/6"
       } 
     ],
     "subtitle": "站点播报"
@@ -82,7 +82,7 @@
   "metro.skl7": {
     "sounds": [
       {
-        "name": "metro/line/1_shimoekoharu/bxh/7"
+        "name": "metro/line/1_shimoekoharu/sp_bxh/7"
       } 
     ],
     "subtitle": "站点播报"
@@ -90,7 +90,7 @@
   "metro.skl8": {
     "sounds": [
       {
-        "name": "metro/line/1_shimoekoharu/bxh/8"
+        "name": "metro/line/1_shimoekoharu/sp_bxh/8"
       } 
     ],
     "subtitle": "站点播报"
@@ -98,7 +98,7 @@
   "metro.skl9": {
     "sounds": [
       {
-        "name": "metro/line/1_shimoekoharu/bxh/9"
+        "name": "metro/line/1_shimoekoharu/sp_bxh/9"
       } 
     ],
     "subtitle": "站点播报"
@@ -106,7 +106,7 @@
   "metro.skl10": {
     "sounds": [
       {
-        "name": "metro/line/1_shimoekoharu/bxh/10"
+        "name": "metro/line/1_shimoekoharu/sp_bxh/10"
       } 
     ],
     "subtitle": "站点播报"
@@ -114,7 +114,7 @@
   "metro.skl11": {
     "sounds": [
       {
-        "name": "metro/line/1_shimoekoharu/bxh/11"
+        "name": "metro/line/1_shimoekoharu/sp_bxh/11"
       } 
     ],
     "subtitle": "站点播报"
@@ -122,7 +122,7 @@
   "metro.skl12": {
     "sounds": [
       {
-        "name": "metro/line/1_shimoekoharu/bxh/12"
+        "name": "metro/line/1_shimoekoharu/sp_bxh/12"
       } 
     ],
     "subtitle": "站点播报"
@@ -130,7 +130,7 @@
   "metro.skr1": {
     "sounds": [
       {
-        "name": "metro/line/1_shimoekoharu/sp/1"
+        "name": "metro/line/1_shimoekoharu/bxh_sp/1"
       } 
     ],
     "subtitle": "站点播报"
@@ -138,7 +138,7 @@
   "metro.skr2": {
     "sounds": [
       {
-        "name": "metro/line/1_shimoekoharu/sp/2"
+        "name": "metro/line/1_shimoekoharu/bxh_sp/2"
       } 
     ],
     "subtitle": "站点播报"
@@ -146,7 +146,7 @@
   "metro.skr3": {
     "sounds": [
       {
-        "name": "metro/line/1_shimoekoharu/sp/3"
+        "name": "metro/line/1_shimoekoharu/bxh_sp/3"
       } 
     ],
     "subtitle": "站点播报"
@@ -154,7 +154,7 @@
   "metro.skr4": {
     "sounds": [
       {
-        "name": "metro/line/1_shimoekoharu/sp/4"
+        "name": "metro/line/1_shimoekoharu/bxh_sp/4"
       } 
     ],
     "subtitle": "站点播报"
@@ -162,7 +162,7 @@
   "metro.skr5": {
     "sounds": [
       {
-        "name": "metro/line/1_shimoekoharu/sp/5"
+        "name": "metro/line/1_shimoekoharu/bxh_sp/5"
       } 
     ],
     "subtitle": "站点播报"
@@ -170,7 +170,7 @@
   "metro.skr6": {
     "sounds": [
       {
-        "name": "metro/line/1_shimoekoharu/sp/6"
+        "name": "metro/line/1_shimoekoharu/bxh_sp/6"
       } 
     ],
     "subtitle": "站点播报"
@@ -178,7 +178,7 @@
   "metro.skr7": {
     "sounds": [
       {
-        "name": "metro/line/1_shimoekoharu/sp/7"
+        "name": "metro/line/1_shimoekoharu/bxh_sp/7"
       } 
     ],
     "subtitle": "站点播报"
@@ -186,7 +186,7 @@
   "metro.skr8": {
     "sounds": [
       {
-        "name": "metro/line/1_shimoekoharu/sp/8"
+        "name": "metro/line/1_shimoekoharu/bxh_sp/8"
       } 
     ],
     "subtitle": "站点播报"
@@ -194,7 +194,7 @@
   "metro.skr9": {
     "sounds": [
       {
-        "name": "metro/line/1_shimoekoharu/sp/9"
+        "name": "metro/line/1_shimoekoharu/bxh_sp/9"
       } 
     ],
     "subtitle": "站点播报"
@@ -202,7 +202,7 @@
   "metro.skr10": {
     "sounds": [
       {
-        "name": "metro/line/1_shimoekoharu/sp/10"
+        "name": "metro/line/1_shimoekoharu/bxh_sp/10"
       } 
     ],
     "subtitle": "站点播报"
@@ -210,7 +210,7 @@
   "metro.skr11": {
     "sounds": [
       {
-        "name": "metro/line/1_shimoekoharu/sp/11"
+        "name": "metro/line/1_shimoekoharu/bxh_sp/11"
       } 
     ],
     "subtitle": "站点播报"
@@ -218,7 +218,7 @@
   "metro.skr12": {
     "sounds": [
       {
-        "name": "metro/line/1_shimoekoharu/sp/12"
+        "name": "metro/line/1_shimoekoharu/bxh_sp/12"
       } 
     ],
     "subtitle": "站点播报"
