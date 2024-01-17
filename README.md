@@ -22,9 +22,11 @@
 
 ## 下载
 
-您可以通过 [Release](https://github.com/MC-Schale/Resource-pack/releases) 来下载资源包文件，也可以通过下面的链接来下载最新版
+您可以通过 [Release](https://github.com/MC-Schale/Resource-pack/releases) 来下载资源包文件，您也可以通过下面的链接来下载最新版
 
-敬请期待
+[Java版](https://github.com/MC-Schale/Resource-pack/releases/download/JE_Server1_Release_1.8.0/MC-Schale.JE.r1.8.0.zip)
+
+[基岩版](https://github.com/MC-Schale/Resource-pack/releases/download/BE_Server1_Release_1.5.0/MC-Schale.BE.r1.5.0.mcpack)
 
 您也可以通过下载整个 `存储库` 中的内容来自定义您需要的内容，您可以在这个库中下载到我们引用到的 `参考模板` 或 `引用到的文件` ，相关内容请参考  [Source.md](https://github.com/MC-Schale/Resource-pack/blob/main/Samples/Source.md) 中的相关内容
 
