@@ -1,2 +1,2 @@
 1. [`End_Poem\end1.txt`](https://github.com/MC-Schale/Resource-pack/blob/main/Others/End_Poem/end1.txt) [`End_Poem\end2.txt`](https://github.com/MC-Schale/Resource-pack/blob/main/Others/End_Poem/end2.txt) [`End_Poem\end3.txt`](https://github.com/MC-Schale/Resource-pack/blob/main/Others/End_Poem/end3.txt) 为终末之诗文本
-2. [`sounds.json`](https://github.com/MC-Schale/Resource-pack/blob/main/Others/sounds.json) 为基岩版音频调用相关设置文件，因功能调整，故临时储存于此
+2. [`sounds.json`](https://github.com/MC-Schale/Resource-pack/blob/main/Others/Backpack/sounds.json) 为基岩版音频调用相关设置文件，因功能调整，故临时储存于此
