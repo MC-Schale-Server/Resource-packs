@@ -1,5 +1,6 @@
 ## 更新日志 `Java Edition`
 
+<<<<<<< HEAD
 ### **当前计划**
 
  - JE、BE资源包同步版本号暂定于 `1.9.X`
@@ -69,6 +70,8 @@
  - 此版本由 `KFACBT` 构建
  - 更改了 `红石灯` 的材质，使其更简约
 
+=======
+>>>>>>> parent of e8204c6a (Merge remote-tracking branch 'origin/main')
 ### r1.7.8 `2024/01/01`
 
  - 此版本由 `TPOD` 构建
