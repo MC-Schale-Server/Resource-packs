@@ -14,19 +14,27 @@
 
 您也可以在这里提前获取我们的 `测试资源包`
 
-本月底，我们将对服务器内安装的资源包进行升级，并完成实装基岩版资源包的工作，感谢您的期待
+**基岩版资源包正式版已发布，并已在服务器实装**
 
-**基岩版资源包正式版已发布，即将实装（预计实装时间：一月底）**
+**Resource Park for BedRock Edition has been released now,it has come in Server 1.**
 
-**Resource Park for BedRock Edition has been released now,it will comming soon in Server 1.**
+## 服务器实装版本
+
+Java版：  `r1.8.0`
+
+基岩版： `r1.5.0`
+
+需要下载其他版本请看下一栏目
 
 ## 下载
 
 您可以通过 [Release](https://github.com/MC-Schale/Resource-pack/releases) 来下载资源包文件，您也可以通过下面的链接来下载最新版
 
-[Java版](https://github.com/MC-Schale/Resource-pack/releases/download/JE_Server1_Release_1.8.0/MC-Schale.JE.r1.8.0.zip)
+[Java版资源包](https://github.com/MC-Schale/Resource-pack/releases/download/JE_Server1_Release_1.8.0/MC-Schale.JE.r1.8.0.zip)
 
-[基岩版](https://github.com/MC-Schale/Resource-pack/releases/download/BE_Server1_Release_1.5.0/MC-Schale.BE.r1.5.0.mcpack)
+[基岩版资源包](https://github.com/MC-Schale/Resource-pack/releases/download/BE_Server1_Release_1.5.0/MC-Schale.BE.r1.5.0.mcpack)
+
+[圆转方资源包](https://github.com/MC-Schale/Resource-pack/releases/download/JE_oto%E2%96%A1_Release_v1.3/For-Java-Edition_v1.3.zip)
 
 您也可以通过下载整个 `存储库` 中的内容来自定义您需要的内容，您可以在这个库中下载到我们引用到的 `参考模板` 或 `引用到的文件` ，相关内容请参考  [Source.md](https://github.com/MC-Schale/Resource-pack/blob/main/Samples/Source.md) 中的相关内容
 
