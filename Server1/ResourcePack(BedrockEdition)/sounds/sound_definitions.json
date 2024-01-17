@@ -39,7 +39,7 @@
       }
     ]
   },
-  "metro.skl1": {
+  "metro.1.sk.main_l1": {
     "category": "player",
     "min_distance": 1000.0,
     "sounds": [
@@ -49,7 +49,7 @@
       }
     ]
   },
-  "metro.skl2": {
+  "metro.1.sk.main_l2": {
     "category": "player",
     "min_distance": 1000.0,
     "sounds": [
@@ -59,7 +59,7 @@
       }
     ]
   },
-  "metro.skl3": {
+  "metro.1.sk.main_l3": {
     "category": "player",
     "min_distance": 1000.0,
     "sounds": [
@@ -69,7 +69,7 @@
       }
     ]
   },
-  "metro.skl4": {
+  "metro.1.sk.main_l4": {
     "category": "player",
     "min_distance": 1000.0,
     "sounds": [
@@ -79,7 +79,7 @@
       }
     ]
   },
-  "metro.skl5": {
+  "metro.1.sk.main_l5": {
     "category": "player",
     "min_distance": 1000.0,
     "sounds": [
@@ -89,7 +89,7 @@
       }
     ]
   },
-  "metro.skl6": {
+  "metro.1.sk.main_l6": {
     "category": "player",
     "min_distance": 1000.0,
     "sounds": [
@@ -99,7 +99,7 @@
       }
     ]
   },
-  "metro.skl7": {
+  "metro.1.sk.main_l7": {
     "category": "player",
     "min_distance": 1000.0,
     "sounds": [
@@ -109,7 +109,7 @@
       }
     ]
   },
-  "metro.skl8": {
+  "metro.1.sk.main_l8": {
     "category": "player",
     "min_distance": 1000.0,
     "sounds": [
@@ -119,7 +119,7 @@
       }
     ]
   },
-  "metro.skl9": {
+  "metro.1.sk.main_l9": {
     "category": "player",
     "min_distance": 1000.0,
     "sounds": [
@@ -129,7 +129,7 @@
       }
     ]
   },
-  "metro.skl10": {
+  "metro.1.sk.main_l10": {
     "category": "player",
     "min_distance": 1000.0,
     "sounds": [
@@ -139,7 +139,7 @@
       }
     ]
   },
-  "metro.skl11": {
+  "metro.1.sk.main_l11": {
     "category": "player",
     "min_distance": 1000.0,
     "sounds": [
@@ -149,7 +149,7 @@
       }
     ]
   },
-  "metro.skl12": {
+  "metro.1.sk.main_l12": {
     "category": "player",
     "min_distance": 1000.0,
     "sounds": [
@@ -159,7 +159,7 @@
       }
     ]
   },
-  "metro.skr1": {
+  "metro.1.sk.main_r1": {
     "category": "player",
     "min_distance": 1000.0,
     "sounds": [
@@ -169,7 +169,7 @@
       }
     ]
   },
-  "metro.skr2": {
+  "metro.1.sk.main_r2": {
     "category": "player",
     "min_distance": 1000.0,
     "sounds": [
@@ -179,7 +179,7 @@
       }
     ]
   },
-  "metro.skr3": {
+  "metro.1.sk.main_r3": {
     "category": "player",
     "min_distance": 1000.0,
     "sounds": [
@@ -189,7 +189,7 @@
       }
     ]
   },
-  "metro.skr4": {
+  "metro.1.sk.main_r4": {
     "category": "player",
     "min_distance": 1000.0,
     "sounds": [
@@ -199,7 +199,7 @@
       }
     ]
   },
-  "metro.skr5": {
+  "metro.1.sk.main_r5": {
     "category": "player",
     "min_distance": 1000.0,
     "sounds": [
@@ -209,7 +209,7 @@
       }
     ]
   },
-  "metro.skr6": {
+  "metro.1.sk.main_r6": {
     "category": "player",
     "min_distance": 1000.0,
     "sounds": [
@@ -219,7 +219,7 @@
       }
     ]
   },
-  "metro.skr7": {
+  "metro.1.sk.main_r7": {
     "category": "player",
     "min_distance": 1000.0,
     "sounds": [
@@ -229,7 +229,7 @@
       }
     ]
   },
-  "metro.skr8": {
+  "metro.1.sk.main_r8": {
     "category": "player",
     "min_distance": 1000.0,
     "sounds": [
@@ -239,7 +239,7 @@
       }
     ]
   },
-  "metro.skr9": {
+  "metro.1.sk.main_r9": {
     "category": "player",
     "min_distance": 1000.0,
     "sounds": [
@@ -249,7 +249,7 @@
       }
     ]
   },
-  "metro.skr10": {
+  "metro.1.sk.main_r10": {
     "category": "player",
     "min_distance": 1000.0,
     "sounds": [
@@ -259,7 +259,7 @@
       }
     ]
   },
-  "metro.skr11": {
+  "metro.1.sk.main_r11": {
     "category": "player",
     "min_distance": 1000.0,
     "sounds": [
@@ -269,7 +269,7 @@
       }
     ]
   },
-  "metro.skr12": {
+  "metro.1.sk.main_r12": {
     "category": "player",
     "min_distance": 1000.0,
     "sounds": [
@@ -307,6 +307,346 @@
     "sounds": [
       {
         "name": "sounds/others/gogogo.ogg",
+        "stream":true
+      }
+    ]
+  },
+  "metro.2.hy.main_u1": {
+    "category": "player",
+    "min_distance": 1000.0,
+    "sounds": [
+      {
+        "name": "sounds/metro/line/2_hayaseyuuka/tso_mp/1",
+        "stream":true
+      }
+    ]
+  },
+  "metro.2.hy.main_u2": {
+    "category": "player",
+    "min_distance": 1000.0,
+    "sounds": [
+      {
+        "name": "sounds/metro/line/2_hayaseyuuka/tso_mp/2",
+        "stream":true
+      }
+    ]
+  },
+  "metro.2.hy.main_u3": {
+    "category": "player",
+    "min_distance": 1000.0,
+    "sounds": [
+      {
+        "name": "sounds/metro/line/2_hayaseyuuka/tso_mp/3",
+        "stream":true
+      }
+    ]
+  },
+  "metro.2.hy.main_u4": {
+    "category": "player",
+    "min_distance": 1000.0,
+    "sounds": [
+      {
+        "name": "sounds/metro/line/2_hayaseyuuka/tso_mp/4",
+        "stream":true
+      }
+    ]
+  },
+  "metro.2.hy.main_u5": {
+    "category": "player",
+    "min_distance": 1000.0,
+    "sounds": [
+      {
+        "name": "sounds/metro/line/2_hayaseyuuka/tso_mp/5",
+        "stream":true
+      }
+    ]
+  },
+  "metro.2.hy.main_u6": {
+    "category": "player",
+    "min_distance": 1000.0,
+    "sounds": [
+      {
+        "name": "sounds/metro/line/2_hayaseyuuka/tso_mp/6",
+        "stream":true
+      }
+    ]
+  },
+  "metro.2.hy.main_u7": {
+    "category": "player",
+    "min_distance": 1000.0,
+    "sounds": [
+      {
+        "name": "sounds/metro/line/2_hayaseyuuka/tso_mp/7",
+        "stream":true
+      }
+    ]
+  },
+  "metro.2.hy.main_d1": {
+    "category": "player",
+    "min_distance": 1000.0,
+    "sounds": [
+      {
+        "name": "sounds/metro/line/2_hayaseyuuka/mp_tso/1",
+        "stream":true
+      }
+    ]
+  },
+  "metro.2.hy.main_d2": {
+    "category": "player",
+    "min_distance": 1000.0,
+    "sounds": [
+      {
+        "name": "sounds/metro/line/2_hayaseyuuka/mp_tso/2",
+        "stream":true
+      }
+    ]
+  },
+  "metro.2.hy.main_d3": {
+    "category": "player",
+    "min_distance": 1000.0,
+    "sounds": [
+      {
+        "name": "sounds/metro/line/2_hayaseyuuka/mp_tso/3",
+        "stream":true
+      }
+    ]
+  },
+  "metro.2.hy.main_d4": {
+    "category": "player",
+    "min_distance": 1000.0,
+    "sounds": [
+      {
+        "name": "sounds/metro/line/2_hayaseyuuka/mp_tso/4",
+        "stream":true
+      }
+    ]
+  },
+  "metro.2.hy.main_d5": {
+    "category": "player",
+    "min_distance": 1000.0,
+    "sounds": [
+      {
+        "name": "sounds/metro/line/2_hayaseyuuka/mp_tso/5",
+        "stream":true
+      }
+    ]
+  },
+  "metro.2.hy.main_d6": {
+    "category": "player",
+    "min_distance": 1000.0,
+    "sounds": [
+      {
+        "name": "sounds/metro/line/2_hayaseyuuka/mp_tso/6",
+        "stream":true
+      }
+    ]
+  },
+  "metro.2.hy.main_d7": {
+    "category": "player",
+    "min_distance": 1000.0,
+    "sounds": [
+      {
+        "name": "sounds/metro/line/2_hayaseyuuka/mp_tso/7",
+        "stream":true
+      }
+    ]
+  },
+  "metro.2.hy.sub1_u1": {
+    "category": "player",
+    "min_distance": 1000.0,
+    "sounds": [
+      {
+        "name": "sounds/metro/line/2_hayaseyuuka/mp_mc/1",
+        "stream":true
+      }
+    ]
+  },
+  "metro.2.hy.sub1_u2": {
+    "category": "player",
+    "min_distance": 1000.0,
+    "sounds": [
+      {
+        "name": "sounds/metro/line/2_hayaseyuuka/mp_mc/2",
+        "stream":true
+      }
+    ]
+  },
+  "metro.2.hy.sub1_u3": {
+    "category": "player",
+    "min_distance": 1000.0,
+    "sounds": [
+      {
+        "name": "sounds/metro/line/2_hayaseyuuka/mp_mc/3",
+        "stream":true
+      }
+    ]
+  },
+  "metro.2.hy.sub1_u4": {
+    "category": "player",
+    "min_distance": 1000.0,
+    "sounds": [
+      {
+        "name": "sounds/metro/line/2_hayaseyuuka/mp_mc/4",
+        "stream":true
+      }
+    ]
+  },
+  "metro.2.hy.sub1_u5": {
+    "category": "player",
+    "min_distance": 1000.0,
+    "sounds": [
+      {
+        "name": "sounds/metro/line/2_hayaseyuuka/mp_mc/5",
+        "stream":true
+      }
+    ]
+  },
+  "metro.2.hy.sub1_d1": {
+    "category": "player",
+    "min_distance": 1000.0,
+    "sounds": [
+      {
+        "name": "sounds/metro/line/2_hayaseyuuka/mc_mp/1",
+        "stream":true
+      }
+    ]
+  },
+  "metro.2.hy.sub1_d2": {
+    "category": "player",
+    "min_distance": 1000.0,
+    "sounds": [
+      {
+        "name": "sounds/metro/line/2_hayaseyuuka/mc_mp/2",
+        "stream":true
+      }
+    ]
+  },
+  "metro.2.hy.sub1_d3": {
+    "category": "player",
+    "min_distance": 1000.0,
+    "sounds": [
+      {
+        "name": "sounds/metro/line/2_hayaseyuuka/mc_mp/3",
+        "stream":true
+      }
+    ]
+  },
+  "metro.2.hy.sub1_d4": {
+    "category": "player",
+    "min_distance": 1000.0,
+    "sounds": [
+      {
+        "name": "sounds/metro/line/2_hayaseyuuka/mc_mp/4",
+        "stream":true
+      }
+    ]
+  },
+  "metro.2.hy.sub1_d5": {
+    "category": "player",
+    "min_distance": 1000.0,
+    "sounds": [
+      {
+        "name": "sounds/metro/line/2_hayaseyuuka/mc_mp/5",
+        "stream":true
+      }
+    ]
+  },
+  "metro.2.hy.sub2_r1": {
+    "category": "player",
+    "min_distance": 1000.0,
+    "sounds": [
+      {
+        "name": "sounds/metro/line/2_hayaseyuuka/mp_sd/1",
+        "stream":true
+      }
+    ]
+  },
+  "metro.2.hy.sub2_r2": {
+    "category": "player",
+    "min_distance": 1000.0,
+    "sounds": [
+      {
+        "name": "sounds/metro/line/2_hayaseyuuka/mp_sd/2",
+        "stream":true
+      }
+    ]
+  },
+  "metro.2.hy.sub2_r3": {
+    "category": "player",
+    "min_distance": 1000.0,
+    "sounds": [
+      {
+        "name": "sounds/metro/line/2_hayaseyuuka/mp_sd/3",
+        "stream":true
+      }
+    ]
+  },
+  "metro.2.hy.sub2_r4": {
+    "category": "player",
+    "min_distance": 1000.0,
+    "sounds": [
+      {
+        "name": "sounds/metro/line/2_hayaseyuuka/mp_sd/4",
+        "stream":true
+      }
+    ]
+  },
+  "metro.2.hy.sub2_r5": {
+    "category": "player",
+    "min_distance": 1000.0,
+    "sounds": [
+      {
+        "name": "sounds/metro/line/2_hayaseyuuka/mp_sd/5",
+        "stream":true
+      }
+    ]
+  },
+  "metro.2.hy.sub2_l1": {
+    "category": "player",
+    "min_distance": 1000.0,
+    "sounds": [
+      {
+        "name": "sounds/metro/line/2_hayaseyuuka/sd_mp/1",
+        "stream":true
+      }
+    ]
+  },
+  "metro.2.hy.sub2_l2": {
+    "category": "player",
+    "min_distance": 1000.0,
+    "sounds": [
+      {
+        "name": "sounds/metro/line/2_hayaseyuuka/sd_mp/2",
+        "stream":true
+      }
+    ]
+  },
+  "metro.2.hy.sub2_l3": {
+    "category": "player",
+    "min_distance": 1000.0,
+    "sounds": [
+      {
+        "name": "sounds/metro/line/2_hayaseyuuka/sd_mp/3",
+        "stream":true
+      }
+    ]
+  },
+  "metro.2.hy.sub2_l4": {
+    "category": "player",
+    "min_distance": 1000.0,
+    "sounds": [
+      {
+        "name": "sounds/metro/line/2_hayaseyuuka/sd_mp/4",
+        "stream":true
+      }
+    ]
+  },
+  "metro.2.hy.sub2_l5": {
+    "category": "player",
+    "min_distance": 1000.0,
+    "sounds": [
+      {
+        "name": "sounds/metro/line/2_hayaseyuuka/sd_mp/5",
         "stream":true
       }
     ]
