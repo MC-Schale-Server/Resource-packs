@@ -6,3 +6,4 @@
 2. [`Bedrock Edition` 原版数据包，行为包和资源包样本](https://github.com/MC-Schale/Resource-pack/tree/main/Samples/bedrock-samples-1.20.60.25-preview) 来自于 **Mojang Studios**（ [相关链接](https://github.com/Mojang/bedrock-samples/releases) ）
 3. [`梗体中文` 资源包](https://github.com/MC-Schale/Resource-pack/tree/main/Samples/meme.teahouse.team-9b1d8d) 来自于 **Teahouse Team**
 4. [`BlueArchive-Holas` 资源包](https://github.com/MC-Schale/Resource-pack/tree/main/Samples/BlueArchive-Holas-mod%20ResoursePack) 来自 [**BlueArchive-Holas mod**](https://www.mcmod.cn/class/10170.html)（ *经原作者同意使用于该资源包内* ）
+5. [`谣 Balled` 资源包](https://www.mcbbs.net/thread-807365-1-1.html)
