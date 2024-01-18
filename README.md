@@ -30,17 +30,17 @@ Java版： `r1.8.0`
 
 **预计下次实装版本及时间**
 
-Java版： `r1.9.0`
+Java版： *`r1.9.0`*
 
-基岩版： `r1.9.0`
+基岩版： *`r1.9.0`*
 
-预计实装时间：2024/02/10左右
+预计实装时间：*2024/02/10左右*
 
 需要下载其他版本请看下一栏目
 
 ## 下载
 
-您可以通过 [Release](https://github.com/MC-Schale/Resource-pack/releases) 来下载资源包文件，您也可以通过下面的链接来下载最新版
+您可以通过 [Release](https://github.com/MC-Schale/Resource-pack/releases) 来下载资源包文件，您也可以通过下面的链接来下载对应版本的最新版
 
 [Java版资源包](https://github.com/MC-Schale/Resource-pack/releases/download/JE_Server1_Release_1.8.0/MC-Schale.JE.r1.8.0.zip)
 
