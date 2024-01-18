@@ -18,7 +18,7 @@
 
 **Resource Park for BedRock Edition has been released now,it has come in Server 1.0 .**
 
-## 服务器实装版本
+## 服务器资源包安装版本
 
 **当前实装版本及时间**
 
@@ -35,8 +35,6 @@ Java版： *`r1.9.0`*
 基岩版： *`r1.9.0`*
 
 预计实装时间：*2024/02/10左右*
-
-需要下载其他版本请看下一栏目
 
 ## 下载
 
