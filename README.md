@@ -14,7 +14,7 @@
 
 您也可以在这里提前获取我们的 `测试资源包`
 
-**基岩版资源包正式版已发布，并已在服务器实装**
+**基岩版资源包已发布正式版，并已在服务器实装**
 
 **Resource Park for BedRock Edition has been released now,it has come in Server 1.0 .**
 
