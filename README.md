@@ -16,7 +16,7 @@
 
 **基岩版资源包已发布正式版，并已在 `MC-Schale 一服` 实装**
 
-**Resource Park for BedRock Edition has been released now,it has come in Server MC-Schale 1.0 .**
+**Resource Park for Bedrock Edition has been released now,it has come in Server `MC-Schale 1.0` .**
 
 ## 服务器资源包安装版本
 
