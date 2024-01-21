@@ -14,6 +14,8 @@
 
 您也可以在这里提前获取我们的 `测试版资源包`
 
+新建的分支仅作为发布的版本的备份保留
+
 **基岩版资源包已发布正式版，并已在 `MC-Schale 一服` 实装**
 
 **Resource Park for Bedrock Edition has been released now,it has come in Server `MC-Schale 1.0` .**
