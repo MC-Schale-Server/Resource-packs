@@ -1,0 +1,19 @@
+{
+    "format_version": 2,
+    "header": {
+        "description":
+        "resourcePack.vanilla.description",
+        "name": "谣音符盒音乐色包",
+        "uuid": "2294e5a7-9ab1-49af-97e2-eecd7171c377",
+        "version": [0, 0, 1],
+        "min_engine_version": [1, 13, 0]
+    },
+    "modules": [
+        {
+            "description": "resourcePack.vanilla.description",
+            "type": "resources",
+            "uuid": "cc30d053-ba0b-4723-9432-eec86d8eec24",
+            "version": [0, 0, 1]
+        }
+    ]
+}
