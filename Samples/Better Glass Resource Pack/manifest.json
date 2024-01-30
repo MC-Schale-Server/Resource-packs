@@ -1,0 +1,51 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"TheLake"
+		]
+	},
+	"header": {
+		"name": "§bBetter Glass§r",
+		"description": "§lTransform Minecraft's glass into transparent elegance: Embrace aesthetics with Better Glass!§r",
+		"min_engine_version": [
+			1,
+			17,
+			0
+		],
+		"uuid": "7450ebc1-ce9b-44ec-ab0d-3a0c23d61e50",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "f340979c-41ad-4654-9c7d-eb7041427a69",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"subpacks": [
+		{
+			"folder_name": "Connected Borderless Glass",
+			"name": " Connected Borderless Glass",
+			"memory_tier": 0
+		},
+		{
+			"folder_name": "Fully Clear Glass",
+			"name": "Fully Clear Glass",
+			"memory_tier": 0
+		},
+		{
+			"folder_name": "Clear Glass",
+			"name": "Clear Glass",
+			"memory_tier": 0
+		}
+	]
+}

@@ -11,3 +11,4 @@
 7. [`tab1.5`数据包](https://github.com/MC-Schale-Server/Resource-packs/tree/main/Samples/tab1.5)来自于[**MINEBBS**](https://www.minebbs.com/resources/tab.1227/)
 8. [`CHAT增强v3` 数据包](https://github.com/MC-Schale-Server/Resource-packs/tree/main/Samples/CHAT%E5%A2%9E%E5%BC%BAv3)来自于[**苦力怕论坛**](https://klpbbs.com/thread-87926-1-1.html)
 9. [`Tab-Key-Playerlist-UI-Resource-Pack-MCPE-1.19`数据包](https://github.com/MC-Schale-Server/Resource-packs/tree/main/Samples/Tab-Key-Playerlist-UI-Resource-Pack-MCPE-1.19)来自于[**苦力怕论坛**](https://klpbbs.com/thread-98737-1-1.html)
+10. [`Better Glass Resource Pack`](https://github.com/MC-Schale-Server/Resource-packs/tree/main/Samples/Better%20Glass%20Resource%20Pack)来自[**mcpadl**](https://mcpedl.com/better-glass-compatible-to-all-versions-texture-pack/)
