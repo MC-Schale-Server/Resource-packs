@@ -1,0 +1,65 @@
+{
+	"format_version": 2,
+	"header": {
+		"description": "启用以增强聊天命令\nB站 孤独的作者\n反馈群：qq群706394714",
+		"name": "《命令快速选择》Automatic Command. v3",
+		"uuid": "0575001f-ffda-ff7f-9961-fffa2908861e",
+		"version": [0, 0, 1],
+		"min_engine_version": [1, 13, 0]
+	},
+	"modules": [
+		{
+			"description": "resourcePack.vanilla.description",
+			"type": "resources",
+			"uuid": "666400ac-a276-4ff5-8fff-a3c6f169a9ab",
+			"version": [0, 0, 1]
+		}
+	],
+	"subpacks": [
+		{
+			"folder_name": "default",
+			"name": "默认仅补全功能",
+			"memory_tier": 0
+		},
+		{
+			"folder_name": "jj",
+			"name": "高度 *1.5",
+			"memory_tier": 1
+		},
+		{
+			"folder_name": "200%",
+			"name": "高度 *2",
+			"memory_tier": 2
+		},
+		{
+			"folder_name": "500%",
+			"name": "高度 *5",
+			"memory_tier": 3
+		},
+		{
+			"folder_name": "1000%",
+			"name": "高度 *10",
+			"memory_tier": 4
+		},
+		{
+			"folder_name": "2000%",
+			"name": "高度 *20",
+			"memory_tier": 5
+		},
+		{
+			"folder_name": "3000%",
+			"name": "高度 *30",
+			"memory_tier": 6
+		},
+		{
+			"folder_name": "5000%",
+			"name": "高度 *50",
+			"memory_tier": 7
+		},
+		{
+			"folder_name": "default",
+			"name": "默认仅补全功能",
+			"memory_tier": 8
+		}
+	]
+}

@@ -1,0 +1,83 @@
+{
+	"namespace": "ui",
+	"top_button_panel": {
+		"type": "panel",
+		"size": [ 17, 17 ],
+		"controls": [
+			{
+				"host_image@host_options.button_label": {
+					"$button_text_color": "$text_color",
+					"$button_text": "Top"
+				}
+			}
+		]
+	},
+	"down_button_panel": {
+		"type": "panel",
+		"size": [ 17, 17 ],
+		"controls": [
+			{
+				"host_image@host_options.button_label": {
+					"$button_text_color": "$text_color",
+					"$button_text": "Down"
+				}
+			}
+		]
+	},
+	"auto_top_button_panel": {
+		"type": "panel",
+		"size": [ 17, 17 ],
+		"controls": [
+			{
+				"host_image@host_options.button_label": {
+					"$button_text_color": "$text_color",
+					"$button_text": "Tab"
+				}
+			}
+		]
+	},
+	"auto_down_button_panel": {
+		"type": "panel",
+		"size": [ 17, 17 ],
+		"controls": [
+			{
+				"host_image@host_options.button_label": {
+					"$button_text_color": "$text_color",
+					"$button_text": "Tab"
+				}
+			}
+		]
+	},
+	"top_button@common_buttons.light_text_form_fitting_button": {
+		"$pressed_button_name": "button.chat_previous_message",
+		"anchor_from": "bottom_right",
+		"anchor_to": "bottom_right",
+		"size": [ 27, 27 ],
+		"$focus_id": "host_main_button_focus_id",
+		"$button_type_panel": "ui.top_button_panel"
+	},
+	"down_button@common_buttons.light_text_form_fitting_button": {
+		"$pressed_button_name": "button.chat_next_message",
+		"anchor_from": "bottom_right",
+		"anchor_to": "bottom_right",
+		"size": [ 27, 27 ],
+		"$focus_id": "host_main_button_focus_id",
+		"$button_type_panel": "ui.down_button_panel"
+	},
+	"auto_top_button@common_buttons.light_text_form_fitting_button": {
+		"$pressed_button_name": "button.chat_autocomplete",
+		"anchor_from": "bottom_right",
+		"anchor_to": "bottom_right",
+		"size": [ 27, 27 ],
+		"$focus_id": "host_main_button_focus_id",
+		"$button_type_panel": "ui.auto_top_button_panel"
+	},
+	"auto_down_button@common_buttons.light_text_form_fitting_button": {
+		"$pressed_button_name": "button.chat_autocomplete_back",
+		"anchor_from": "bottom_right",
+		"anchor_to": "bottom_right",
+		"size": [ 27, 27 ],
+		"$focus_id": "host_main_button_focus_id",
+		"$button_type_panel": "ui.auto_down_button_panel"
+	}
+}

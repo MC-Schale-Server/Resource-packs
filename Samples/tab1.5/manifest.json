@@ -1,0 +1,17 @@
+{
+   "format_version" : 1,
+   "header" : {
+      "description" : "§lMinecraft Tab Button",
+      "name" : "Tab Button",
+      "uuid" : "1392eb71-be3c-3e42-bf94-135403afa218",
+      "version" : [ 1, 0, 0 ]
+   },
+   "modules" : [
+      {
+         "description" : "",
+         "type" : "resources",
+         "uuid" : "79e1b784-891f-3541-adb3-9cd53033b7a4",
+         "version" : [ 1, 0, 0 ]
+      }
+   ]
+}
