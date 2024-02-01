@@ -1,6 +1,6 @@
 ## 来源
 
-本存储库的资源包例程来自于：
+本存储库的资源包模板来自于：
 
 1. [`Java Edition` 原版资源包](https://github.com/MC-Schale-Server/Resource-packs/tree/main/Samples/ResourcePack%201.20.1%20Java%20Edition%20Backup/assets) 来自于 **Mojang Studios**
 2. [`Bedrock Edition` 原版数据包，行为包和资源包样本](https://github.com/MC-Schale-Server/Resource-packs/tree/main/Samples/bedrock-samples-1.20.60.25-preview) 来自于 **Mojang Studios**（ [相关链接](https://github.com/Mojang/bedrock-samples/releases) ）
