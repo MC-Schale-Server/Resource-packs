@@ -4,6 +4,11 @@
 
  - JE、BE资源包同步版本号暂定于 `1.9.X`(预计 `2024/02/10` 左右)
 
+### b1.8.1 `2024/02/02`
+
+ - 此版本由 `bdlvl` 构建
+ - 修改了 `gui\title\minecraft.png` 与 `entity\signs\warped.png` 的材质
+
 ### b1.8.0 rebuild.2 `2024/01/29`
 
  - 此版本由 `TPOD` 构建
@@ -95,8 +100,6 @@
  - 此版本由 `KFACBT` 构建
  - 更改了 `红石灯` 的材质，使其更简约
 
-=======
->>>>>>> parent of e8204c6a (Merge remote-tracking branch 'origin/main')
 ### r1.7.8 `2024/01/01`
 
  - 此版本由 `TPOD` 构建
