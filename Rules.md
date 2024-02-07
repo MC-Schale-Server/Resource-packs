@@ -2,7 +2,7 @@
 
 在完成一个版本时，如果需要更改，请一定不要忘记更改 `JE: *pack.memeta*` `BE: *manifest.json*` 文件的 `版本号` 以及不要忘记在 `Changelog.md` 中记录所更改的内容
 
-注：JE仅在游戏客户端版本更新时需要修改 `pack.memeta` 文件，BE在修改资源包版本以及游戏版本更新时均需要修改 `manifest.json` 文件
+注：JE仅在游戏客户端版本更新时需要修改 `pack.memeta` 文件，BE在修改资源包版本以及游戏版本更新时均需要修改 `manifest.json` 文件（请以 `RP+数字` 的格式编号更新的内容）
 
 ## 创建发行版
 
