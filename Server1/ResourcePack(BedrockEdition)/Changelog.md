@@ -4,6 +4,12 @@
 
  - JE、BE资源包同步版本号暂定于 `1.9.X`(预计 `2024/02/08` 左右)
 
+### b1.9.0 rc.1 `2024/02/08`
+
+ - 此版本由 `TPOD` 构建
+ - 修改了 `entity\warped_hanging_sign.png` 的纹理---RP5
+ - 修改了 `lang\en_us.json` 与 `lang\zh_cn.json` 中部分物品的翻译---RP4
+
 ### b1.8.0 `2024/02/07`
 
  - 此版本由 `TPOD` 构建

@@ -4,11 +4,11 @@
 
  - JE、BE资源包同步版本号暂定于 `1.9.X`(预计 `2024/02/08` 左右)
 
-### b1.8.4 `2024/02/08`
+### b1.9.0 rc.1 `2024/02/08`
 
-- 此版本由 `bdlvl` 构建
-- 修改了 `entity\signs\hanging\warped.png` 的材质---RP5
-- 修改了 `lang\en_us.json` 与 `lang\zh_cn.json` 中 `4` 个物品的 `8` 条文本---RP4
+ - 此版本由 `bdlvl` 构建
+ - 修改了 `entity\signs\hanging\warped.png` 的材质---RP5
+ - 修改了 `lang\en_us.json` 与 `lang\zh_cn.json` 中 `4` 个物品的 `8` 条文本---RP4
 
 ### b1.8.3 rebuild.2 `2024/02/07`
 
