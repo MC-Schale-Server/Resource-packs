@@ -17,4 +17,4 @@ jobs:
       uses: darshitsri/zip-release@v3
       with:
         filename: releasetest.zip
-        path: ./圆转方拓展包%20For%20Java%20Edition
+        path: ./圆转方拓展包 For Java Edition
