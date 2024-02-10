@@ -4,6 +4,12 @@
 
  - 暂无计划
 
+### r1.9.1 `2024/02/11`
+
+ - 此版本由 `TPOD` 构建
+ - 修改了 `block` 贴图文件夹中 `deepslate\polished_deepslate.png` , `rail_activator.png` 与 `rail_activator_powered.png` 的材质---RP7
+ - 修改了 `texts\en_us.lang` 中 `4` 个物品的文本---RP6
+
 ### r1.9.0 `2024/02/08`
 
  - 此版本由 `TPOD` 构建
