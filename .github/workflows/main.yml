@@ -1,4 +1,4 @@
-            - name: Zip-Release4cpp
+              - name: zipper
   # You may pin to the exact commit or the version.
   # uses: darshitsri/zip-release@1b834d476c94810a45eca807618beb94650feb75
   uses: darshitsri/zip-release@v3
