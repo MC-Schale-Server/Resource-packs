@@ -15,12 +15,7 @@ jobs:
     - name: Create Zip Archive
       run: |
         # 创建一个临时的zip文件
-        zip -r Action_Output/圆转方拓展包\ For\ Java\ Edition.zip 圆转方拓展包\ For\ Java\ Edition/
-
-    # 如果需要将压缩文件移动到一个单独的子目录下（在这个例子中是Action_Output）
-    # 这一步通常是不必要的，因为上一步已经把ZIP文件放到了指定的目录下
-    # - name: Move Zip to Output Folder (Optional)
-    #   run: mv Action_Output/releasetest.zip Action_Output/
+        zip -r Action_Output/Ext.zip 圆转方拓展包\ For\ Java\ Edition/
 
   pack_and_move2:
     runs-on: ubuntu-latest
@@ -32,7 +27,7 @@ jobs:
       - name: Create Zip Archive
         run: |
           # 创建一个临时的zip文件
-          zip -r Action_Output/Resourcepack\(BedrockEdition\).zip Server1/Resourcepack\(BedrockEdition\)/
+          zip -r Action_Output/ResourcepackBE.zip Server1/Resourcepack\(BedrockEdition\)/
 
   pack_and_move3:
     runs-on: ubuntu-latest
@@ -44,4 +39,9 @@ jobs:
       - name: Create Zip Archive
         run: |
           # 创建一个临时的zip文件
-          zip -r Action_Output/Resourcepack\(JavaEdition\).zip Server1/Resourcepack\(JavaEdition\)/
+          zip -r Action_Output/ResourcepackJE.zip Server1/Resourcepack\(JavaEdition\)/
+
+    # 如果需要将压缩文件移动到一个单独的子目录下（在这个例子中是Action_Output）
+    # 这一步通常是不必要的，因为上一步已经把ZIP文件放到了指定的目录下
+    # - name: Move Zip to Output Folder (Optional)
+    #   run: mv Action_Output/releasetest.zip Action_Output/
