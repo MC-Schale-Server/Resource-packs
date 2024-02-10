@@ -6,7 +6,7 @@
     # Filename for archive
     filename: releasetest.zip # default is release.zip
     # Base path for archive files
-    path: ./圆转方拓展包%20For%20Java%20Edition # optional, default is .
+    path: .\圆转方拓展包%20For%20Java%20Edition # optional, default is .
     # Working directory before zipping
     directory: # optional, default is .
     # List of excluded files / directories
