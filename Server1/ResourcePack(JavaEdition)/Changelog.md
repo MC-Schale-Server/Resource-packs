@@ -4,6 +4,13 @@
 
  - 暂无计划
 
+### b1.9.1 `2024/02/11`
+
+ - 此版本由 `bdlvl` 构建
+ - 修改了 `entity\signs\warped.png` 的材质---RP8
+ - 修改了 `block` 贴图文件夹中 `polished_deepslate.png` , `activator_rail.png` 与 `activator_rail_on.png` 的材质---RP7
+ - 修改了 `lang\en_us.json` 中 `4` 个物品的文本---RP6
+
 ### r1.9.0 `2024/02/08`
 
  - 此版本由 `bdlvl` 构建
