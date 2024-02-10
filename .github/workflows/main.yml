@@ -1,20 +1,33 @@
-name: Your Workflow Name
+name: Publish Pre-Release Package
 on:
-  # Define the event that triggers this workflow (e.g., push, pull_request)
   push:
-    branches:
-      - main
+    tags:
+      - '*'
 
 jobs:
-  build_and_archive:
-    runs-on: ubuntu-latest  # Or any other suitable operating system
+  build_and_publish:
+    runs-on: ubuntu-latest
 
     steps:
     - name: Checkout Repository
       uses: actions/checkout@v2
 
     - name: Create Release Zip Archive
-      uses: darshitsri/zip-release@v3
+      id: zip_release
+      run: |
+        # 使用 GitHub Actions 提供的内置工具进行压缩
+        # 注意：这个例子中没有使用 darshitsri/zip-release，而是使用了内置命令行工具
+        # 如果您需要特定的功能或更复杂的操作，请根据实际需求调整这部分代码
+        zip -r releasetest.zip 圆转方拓展包\ For\ Java\ Edition/
+
+    - name: Create Pre-Release
+      uses: softprops/action-gh-release@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
-        filename: releasetest.zip
-        path: '/圆转方拓展包 For Java Edition'
+        tag_name: ${{ github.ref }}
+        release_name: Pre-release version ${{ github.ref }}
+        draft: false
+        prerelease: true
+        files: releasetest.zip
+
