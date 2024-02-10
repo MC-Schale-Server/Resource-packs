@@ -1,20 +1,6 @@
-              - name: zipper
-  # You may pin to the exact commit or the version.
-  # uses: darshitsri/zip-release@1b834d476c94810a45eca807618beb94650feb75
+- name: Create Release Zip Archive
   uses: darshitsri/zip-release@v3
   with:
-    # Filename for archive
-    filename: releasetest.zip # default is release.zip
-    # Base path for archive files
-    path: .\圆转方拓展包%20For%20Java%20Edition # optional, default is .
-    # Working directory before zipping
-    directory: # optional, default is .
-    # List of excluded files / directories
-    exclusions: # optional, default is 
-    # List of excluded files / directories with recursive wildcards (only applies on Windows with `zip` type)
-    recursive_exclusions: # optional, default is 
-    # Provide any custom parameters to the command
-    custom: # optional, default is 
-    # Tool to use for archiving
-    type: # optional, default is zip
-          
+    filename: releasetest.zip
+    # URL encoded version of the path
+    path: .%5C%E5%9C%86%E8%BD%AC%E6%96%B9%E6%8B%93%E5%B1%95%E5%8C%85%20For%20Java%20Edition
