@@ -41,11 +41,7 @@
 
 ## 下载
 
-您可以通过 ***[Release](https://github.com/MC-Schale-Server/Resource-packs/releases)*** 来下载资源包文件，您可以通过下面的链接下载当前构建中的资源包文件
-
-
-
-您也可以通过下面的链接来下载对应版本的最新发行版
+您可以通过 ***[Release](https://github.com/MC-Schale-Server/Resource-packs/releases)*** 来下载资源包文件，您也可以通过下面的链接来下载对应版本的最新发行版
 
 ***[Java版资源包](https://github.com/MC-Schale-Server/Resource-packs/releases/download/JE_Server1_Release_1.9.0/Resource-Pack_JE_Server1_r1.9.0.zip)***
 
