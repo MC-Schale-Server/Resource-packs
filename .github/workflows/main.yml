@@ -12,7 +12,10 @@ jobs:
     - name: Checkout Repository
       uses: actions/checkout@v2
 
-    - name: Create Zip Archive
+    - name: Ensure Output Directory Exists
+      run: mkdir -p Action_Output
+
+    - name: Create Zip Archive (Java Edition)
       run: |
         # 创建一个临时的zip文件
         zip -r Action_Output/Ext.zip 圆转方拓展包\ For\ Java\ Edition/
@@ -24,7 +27,10 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v2
 
-      - name: Create Zip Archive
+      - name: Ensure Output Directory Exists
+        run: mkdir -p Action_Output
+
+      - name: Create Zip Archive (BedrockEdition)
         run: |
           # 创建一个临时的zip文件
           zip -r Action_Output/ResourcepackBE.zip Server1/Resourcepack\(BedrockEdition\)/
@@ -36,12 +42,10 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v2
 
-      - name: Create Zip Archive
+      - name: Ensure Output Directory Exists
+        run: mkdir -p Action_Output
+
+      - name: Create Zip Archive (JavaEdition)
         run: |
           # 创建一个临时的zip文件
           zip -r Action_Output/ResourcepackJE.zip Server1/Resourcepack\(JavaEdition\)/
-
-    # 如果需要将压缩文件移动到一个单独的子目录下（在这个例子中是Action_Output）
-    # 这一步通常是不必要的，因为上一步已经把ZIP文件放到了指定的目录下
-    # - name: Move Zip to Output Folder (Optional)
-    #   run: mv Action_Output/releasetest.zip Action_Output/
