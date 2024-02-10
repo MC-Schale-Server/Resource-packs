@@ -13,12 +13,12 @@ jobs:
       uses: actions/checkout@v2
 
     - name: Ensure Output Directory Exists
-      run: mkdir -p Action_Output
+      run: mkdir -p Action_Output/Ext
 
     - name: Create Zip Archive (Java Edition)
       run: |
         # 创建一个临时的zip文件
-        zip -r Action_Output/Ext.zip 圆转方拓展包\ For\ Java\ Edition/
+        zip -r Action_Output/Ext/Ext.zip 圆转方拓展包\ For\ Java\ Edition/
 
   pack_and_move2:
     runs-on: ubuntu-latest
@@ -28,12 +28,12 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Ensure Output Directory Exists
-        run: mkdir -p Action_Output
+        run: mkdir -p Action_Output/ResourcepackBE
 
       - name: Create Zip Archive (BedrockEdition)
         run: |
           # 创建一个临时的zip文件
-          zip -r Action_Output/ResourcepackBE.zip Server1/Resourcepack\(BedrockEdition\)/
+          zip -r Action_Output/ResourcepackBE/ResourcepackBE.zip Server1/Resourcepack\(BedrockEdition\)/
 
   pack_and_move3:
     runs-on: ubuntu-latest
@@ -43,9 +43,9 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Ensure Output Directory Exists
-        run: mkdir -p Action_Output
+        run: mkdir -p Action_Output/ResourcepackJE
 
       - name: Create Zip Archive (JavaEdition)
         run: |
           # 创建一个临时的zip文件
-          zip -r Action_Output/ResourcepackJE.zip Server1/Resourcepack\(JavaEdition\)/
+          zip -r Action_Output/ResourcepackJE/ResourcepackJE.zip Server1/Resourcepack\(JavaEdition\)/
