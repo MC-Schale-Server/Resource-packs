@@ -69,7 +69,7 @@ jobs:
       with:
         upload_url: ${{ steps.create_release.outputs.upload_url }}
         asset_path: ./bedrock-edition-newest-build.zip
-        asset_name: ResourcePack(BedrockEdition)-newest-build.zip
+        asset_name: ResourcePack-BedrockEdition-newest-build.zip
         asset_content_type: application/zip
 
     - name: Upload JavaEdition Asset
