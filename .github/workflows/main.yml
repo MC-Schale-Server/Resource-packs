@@ -1,1 +1,87 @@
+name: Package and Publish Pre-Release on Push
 
+on:
+  push:
+    branches: [ main ]  # 替换为您的默认分支名称
+
+jobs:
+  build-and-publish-all-assets:
+    runs-on: ubuntu-latest
+
+    steps:
+    # Checkout the repository
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    # Create a zip file from "圆转方拓展包 For Java Edition" folder
+    - name: Package Circle to Square as ZIP
+      run: |
+        cd 圆转方拓展包\ For\ Java\ Edition
+        zip -r ../circle-to-square-newest-build.zip .
+
+    # Create a zip file from BedrockEdition folder
+    - name: Package BedrockEdition ResourcePack as ZIP
+      run: |
+        cd Server1/ResourcePack(BedrockEdition)
+        zip -r ../../bedrock-edition-newest-build.zip .
+
+    # Create a zip file from JavaEdition folder
+    - name: Package JavaEdition ResourcePack as ZIP
+      run: |
+        cd Server1/ResourcePack(JavaEdition)
+        zip -r ../../java-edition-newest-build.zip .
+
+    # Define the release version (这里我们简单地使用 'newest-build'，也可以从项目中的某个文件或构建信息中获取)
+    - name: Set Release Version
+      id: set_version
+      run: echo ::set-output name=VERSION::newest-build
+
+    # Create a GitHub pre-release with the 'newest-build' tag
+    - name: Create Pre-Release
+      id: create_release
+      uses: actions/create-release@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # This token is automatically available to the action
+      with:
+        tag_name: newest-build
+        release_name: Newest Build
+        body: "Automatically created pre-release package for various assets."
+        draft: false
+        prerelease: true
+
+    # Upload all zip files as assets to the created GitHub release
+    - name: Upload Circle to Square Asset
+      id: upload_circle_asset
+      uses: actions/upload-release-asset@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        upload_url: ${{ steps.create_release.outputs.upload_url }}
+        asset_path: ./circle-to-square-newest-build.zip
+        asset_name: circle.to.square.For.Java.Edition-newest-build.zip
+        asset_content_type: application/zip
+
+    - name: Upload BedrockEdition Asset
+      id: upload_bedrock_asset
+      uses: actions/upload-release-asset@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        upload_url: ${{ steps.create_release.outputs.upload_url }}
+        asset_path: ./bedrock-edition-newest-build.zip
+        asset_name: ResourcePack(BedrockEdition)-newest-build.zip
+        asset_content_type: application/zip
+
+    - name: Upload JavaEdition Asset
+      id: upload_java_asset
+      uses: actions/upload-release-asset@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        upload_url: ${{ steps.create_release.outputs.upload_url }}
+        asset_path: ./java-edition-newest-build.zip
+        asset_name: ResourcePack-JavaEdition-newest-build.zip
+        asset_content_type: application/zip
+
+# 这个工作流会在有新的push推送到指定分支时触发，并且每次都用 'newest-build' 标签创建预发布，
+# 同时上传来自不同目录的多个zip文件到同一个预发布版本下。
