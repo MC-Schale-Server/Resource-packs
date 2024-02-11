@@ -7,15 +7,14 @@ on:
 jobs:
   cleanup_and_publish:
     runs-on: ubuntu-latest
-  steps:
-    # 删除上一次发布
-    - name: Delete Latest Release
-      run: |
-        GITHUB_REPOSITORY="${{ github.repository }}"
-        OWNER=$(echo $GITHUB_REPOSITORY | cut -d'/' -f1)
-        REPO=$(echo $GITHUB_REPOSITORY | cut -d'/' -f2)
-        LATEST_RELEASE=$(curl -s -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" https://api.github.com/repos/$OWNER/$REPO/releases/latest | jq -r '.url')
-        curl -X DELETE -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" "$LATEST_RELEASE"
+    steps:
+      # 删除上一次发布
+      - name: Delete Latest Release
+        run: |        GITHUB_REPOSITORY="${{ github.repository }}"
+          OWNER=$(echo $GITHUB_REPOSITORY | cut -d'/' -f1)
+          REPO=$(echo $GITHUB_REPOSITORY | cut -d'/' -f2)
+          LATEST_RELEASE=$(curl -s -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" https://api.github.com/repos/$OWNER/$REPO/releases/latest | jq -r '.url')
+          curl -X DELETE -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" "$LATEST_RELEASE"
 
   build-and-publish-all-assets:
     runs-on: ubuntu-latest
