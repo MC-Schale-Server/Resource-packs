@@ -39,13 +39,21 @@
 
 ## 下载
 
-您可以通过 ***[Release](https://github.com/MC-Schale-Server/Resource-packs/releases)*** 来下载资源包文件，您也可以通过下面的链接来下载对应版本的最新发行版
+您可以通过 ***[Release](https://github.com/MC-Schale-Server/Resource-packs/releases)*** 来下载资源包文件，您可以通过下面的链接来下载最新构建版
 
-***[Java版资源包](https://github.com/MC-Schale-Server/Resource-packs/releases/download/JE_Server1_Release_1.9.0/Resource-Pack_JE_Server1_r1.9.0.zip)***
+***[Java版资源包构建版](https://github.com/MC-Schale-Server/Resource-packs/releases/download/newest-build/circle.to.square.For.Java.Edition-newest-build.zip)***
 
-***[基岩版资源包](https://github.com/MC-Schale-Server/Resource-packs/releases/download/BE_Server1_Release_1.9.0/Resource-Pack_BE_Server1_r1.9.0.mcpack)***
+***[基岩版资源包构建版](https://github.com/MC-Schale-Server/Resource-packs/releases/download/newest-build/ResourcePack-BedrockEdition-newest-build.mcpack)***
 
-***[圆转方资源包](https://github.com/MC-Schale-Server/Resource-packs/releases/download/JE_oto%E2%96%A1_Release_v1.3/Resource-Pack_JE_circle_to_square_r1.3.zip)***
+***[圆转方资源包构建版](https://github.com/MC-Schale-Server/Resource-packs/releases/download/newest-build/circle.to.square.For.Java.Edition-newest-build.zip)***
+
+您也可以通过下面的链接来下载对应版本的最新发行版
+
+***[Java版资源包发行版](https://github.com/MC-Schale-Server/Resource-packs/releases/download/JE_Server1_Release_1.9.0/Resource-Pack_JE_Server1_r1.9.0.zip)***
+
+***[基岩版资源包发行版](https://github.com/MC-Schale-Server/Resource-packs/releases/download/BE_Server1_Release_1.9.0/Resource-Pack_BE_Server1_r1.9.0.mcpack)***
+
+***[圆转方资源包发行版](https://github.com/MC-Schale-Server/Resource-packs/releases/download/JE_oto%E2%96%A1_Release_v1.3/Resource-Pack_JE_circle_to_square_r1.3.zip)***
 
 您也可以通过下载 ***[整个 `存储库` 中的内容](https://codeload.github.com/MC-Schale-Server/Resource-packs/zip/refs/heads/main)*** 来自定义您需要的内容，您可以在这个库中下载到我们引用到的 `参考模板` 或 `引用到的文件` ，相关内容请参考  ***[Source.md](https://github.com/MC-Schale-Server/Resource-packs/blob/main/Samples/Source.md)*** 中的相关内容
 
