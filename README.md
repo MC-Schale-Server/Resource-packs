@@ -41,7 +41,7 @@
 
 您可以通过 ***[Release](https://github.com/MC-Schale-Server/Resource-packs/releases)*** 来下载资源包文件，您可以通过下面的链接来下载最新构建版
 
-***[Java版资源包构建版](https://github.com/MC-Schale-Server/Resource-packs/releases/download/newest-build/circle.to.square.For.Java.Edition-newest-build.zip)***
+***[Java版资源包构建版](https://github.com/MC-Schale-Server/Resource-packs/releases/download/newest-build/ResourcePack-JavaEdition-newest-build.zip)***
 
 ***[基岩版资源包构建版](https://github.com/MC-Schale-Server/Resource-packs/releases/download/newest-build/ResourcePack-BedrockEdition-newest-build.mcpack)***
 
