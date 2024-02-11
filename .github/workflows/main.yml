@@ -34,11 +34,12 @@ jobs:
         cd 圆转方拓展包\ For\ Java\ Edition
         zip -r ../circle-to-square-newest-build.zip .
 
-    # Create a zip file from BedrockEdition folder
-    - name: Package BedrockEdition ResourcePack as ZIP
+    # Package BedrockEdition ResourcePack as ZIP and rename it to .mcpack
+    - name: Package and Rename BedrockEdition ResourcePack
       run: |
         cd 'Server1/ResourcePack(BedrockEdition)'
         zip -r ../../bedrock-edition-newest-build.zip .
+        mv ../../bedrock-edition-newest-build.zip ../../bedrock-edition-newest-build.mcpack
 
     # Create a zip file from JavaEdition folder
     - name: Package JavaEdition ResourcePack as ZIP
@@ -64,7 +65,7 @@ jobs:
         draft: false
         prerelease: true
 
-    # Upload all zip files as assets to the created GitHub release
+    # Upload all assets to the created GitHub release
     - name: Upload Circle to Square Asset
       id: upload_circle_asset
       uses: actions/upload-release-asset@v1
@@ -76,16 +77,16 @@ jobs:
         asset_name: circle.to.square.For.Java.Edition-newest-build.zip
         asset_content_type: application/zip
 
-    - name: Upload BedrockEdition Asset
+    - name: Upload BedrockEdition Asset (as .mcpack)
       id: upload_bedrock_asset
       uses: actions/upload-release-asset@v1
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         upload_url: ${{ steps.create_release.outputs.upload_url }}
-        asset_path: ./bedrock-edition-newest-build.zip
-        asset_name: ResourcePack-BedrockEdition-newest-build.zip
-        asset_content_type: application/zip
+        asset_path: ./bedrock-edition-newest-build.mcpack
+        asset_name: ResourcePack-BedrockEdition-newest-build.mcpack
+        asset_content_type: application/octet-stream
 
     - name: Upload JavaEdition Asset
       id: upload_java_asset
@@ -99,4 +100,4 @@ jobs:
         asset_content_type: application/zip
 
 # 这个工作流会在有新的push推送到指定分支时触发，并且每次都用 'newest-build' 标签创建预发布，
-# 同时上传来自不同目录的多个zip文件到同一个预发布版本下。
+# 同时上传来自不同目录的多个（包括已更名的）资产到同一个预发布版本下。
