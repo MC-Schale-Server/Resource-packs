@@ -7,7 +7,7 @@
 ### b1.9.2 `2024/02/12`
 
  - 此版本由 `bdlvl` 构建
- - 修改了 `item` 贴图文件夹中 `warped_sign.png` 与 `warped_hanging_sign.png` 的材质---RP9
+ - 修改了 `item` 贴图文件夹中 `warped_sign.png` 与 `warped_hanging_sign.png` 的材质---RP10
 
 ### b1.9.1 `2024/02/11`
 
