@@ -39,7 +39,7 @@
 
 ## 下载
 
-您可以通过 ***[Release](https://github.com/MC-Schale-Server/Resource-packs/releases)*** 来下载资源包文件，您可以通过下面的链接来下载最新构建版
+您可以通过 ***[Release](https://github.com/MC-Schale-Server/Resource-packs/releases)*** 来下载资源包文件，您可以通过下面的链接来下载最新构建版(此版本由Github Actions构建)
 
 ***[Java版资源包构建版](https://github.com/MC-Schale-Server/Resource-packs/releases/download/newest-build/ResourcePack-JavaEdition-newest-build.zip)***
 
@@ -47,7 +47,7 @@
 
 ***[圆转方资源包构建版](https://github.com/MC-Schale-Server/Resource-packs/releases/download/newest-build/circle.to.square.For.Java.Edition-newest-build.zip)***
 
-您也可以通过下面的链接来下载对应版本的最新发行版
+您也可以通过下面的链接来下载对应版本的最新发行版(此版本仅包含安装于服务器上的版本)
 
 ***[Java版资源包发行版](https://github.com/MC-Schale-Server/Resource-packs/releases/download/JE_Server1_Release_1.9.0/Resource-Pack_JE_Server1_r1.9.0.zip)***
 
@@ -63,7 +63,7 @@
 
 ***请注意**，经验证 **未实现** 的功能会以 `fault（斜体）` 来标注*
 
-**如果遇到问题 *（不论是资源包的问题还是服务器相关的问题）* ，您都可以在 ***[Issues](https://github.com/MC-Schale-Server/Resource-packs/issues)*** 中提交相关的问题，我们会及时检查出现问题，并给出相关答复，同时修复出现的问题。**
+**如果在体验过程中遇到问题 *(不论是资源包的问题还是服务器相关的问题)* ，您都可以在 ***[Issues](https://github.com/MC-Schale-Server/Resource-packs/issues)*** 中提交相关的问题，我们会及时检查出现问题，并给出相关答复，同时修复出现的问题。**
 
 ## 更新日志
 

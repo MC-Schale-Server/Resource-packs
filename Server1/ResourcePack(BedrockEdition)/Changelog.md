@@ -4,7 +4,12 @@
 
  - 暂无计划
 
-### r1.9.1 `2024/02/11`
+### b1.9.1 rebuild.1 `2024/02/12`
+
+ - 此版本由 `TPOD` 构建
+ - 更新资源包版本需求信息 ---RP9
+
+### b1.9.1 `2024/02/11`
 
  - 此版本由 `TPOD` 构建
  - 修改了 `block` 贴图文件夹中 `deepslate\polished_deepslate.png` , `rail_activator.png` 与 `rail_activator_powered.png` 的材质---RP7
