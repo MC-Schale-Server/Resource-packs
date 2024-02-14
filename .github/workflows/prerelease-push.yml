@@ -7,6 +7,7 @@ on:
 jobs:
   cleanup_and_publish:
     runs-on: ubuntu-latest
+
     steps:
       # 删除带有 'newest-build' 标签的预发布版本及标签
       - name: Delete Release with Tag 'newest-build'
