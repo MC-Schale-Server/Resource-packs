@@ -18,9 +18,11 @@ jobs:
           if [ ! -z "$LATEST_RELEASE_WITH_TAG" ]; then
             RELEASE_ID=$(echo $LATEST_RELEASE_WITH_TAG | jq -r '.id')
             curl -X DELETE -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" https://api.github.com/repos/$OWNER/$REPO/releases/$RELEASE_ID
+            echo "Deleted the release with tag 'newest-build'"
           fi
 
-  build-and-publish-all-assets:
+  build_and_package_assets:
+    needs: cleanup_and_publish
     runs-on: ubuntu-latest
 
     steps:
@@ -28,25 +30,28 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v3
 
-    # Create a zip file from "圆转方拓展包 For Java Edition" folder
+    # Create zip files for different assets
     - name: Package Circle to Square as ZIP
       run: |
         cd 圆转方拓展包\ For\ Java\ Edition
         zip -r ../circle-to-square-newest-build.zip .
 
-    # Package BedrockEdition ResourcePack as ZIP and rename it to .mcpack
     - name: Package and Rename BedrockEdition ResourcePack
       run: |
         cd 'Server1/ResourcePack(BedrockEdition)'
         zip -r ../../bedrock-edition-newest-build.zip .
         mv ../../bedrock-edition-newest-build.zip ../../bedrock-edition-newest-build.mcpack
 
-    # Create a zip file from JavaEdition folder
     - name: Package JavaEdition ResourcePack as ZIP
       run: |
         cd 'Server1/ResourcePack(JavaEdition)'
         zip -r ../../java-edition-newest-build.zip .
 
+  create_and_publish_release:
+    needs: build_and_package_assets
+    runs-on: ubuntu-latest
+
+    steps:
     # Define the release version (这里我们简单地使用 'newest-build'，也可以从项目中的某个文件或构建信息中获取)
     - name: Set Release Version
       id: set_version
@@ -99,5 +104,6 @@ jobs:
         asset_name: ResourcePack-JavaEdition-newest-build.zip
         asset_content_type: application/zip
 
-# 这个工作流会在有新的push推送到指定分支时触发，并且每次都用 'newest-build' 标签创建预发布，
-# 同时上传来自不同目录的多个（包括已更名的）资产到同一个预发布版本下。
+# 这个工作流会在有新的push推送到指定分支时触发，
+# 先删除旧的带有 'newest-build' 标签的预发布版本，
+# 然后打包并发布带有相同标签的新预发布版本，并上传所有资产。
