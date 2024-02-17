@@ -95,8 +95,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # This token is automatically available to the action
         with:
           tag_name: newest-build
-          release_name: Newest Build
-          body: "Automatically created pre-release package for various assets."
+          release_name: 最新构建
+          body: "此预发布版本由Github Action自动构建。"
           draft: false
           prerelease: true
 
