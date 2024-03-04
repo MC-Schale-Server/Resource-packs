@@ -55,7 +55,7 @@
 
 ***[圆转方资源包发行版](https://github.com/MC-Schale-Server/Resource-packs/releases/download/JE_oto%E2%96%A1_Release_v1.3/Resource-Pack_JE_circle_to_square_r1.3.zip)***
 
-您也可以通过下载 ***[整个 `存储库` 中的内容](https://codeload.github.com/MC-Schale-Server/Resource-packs/zip/refs/heads/main)*** 来自定义您需要的内容，您可以在这个库中下载到我们引用到的 `参考模板` 或 `引用到的文件` ，相关内容请参考  ***[Source.md](https://github.com/MC-Schale-Server/Resource-packs/blob/main/Samples/Source.md)*** 中的相关内容
+您也可以通过下载 ***[整个 `存储库` 中的内容](https://codeload.github.com/MC-Schale-Server/Resource-packs/zip/refs/heads/main)*** 来自定义您需要的内容，您可以在这个库中下载到我们引用到的 `参考模板` 或 `引用到的文件` ，相关内容请参考  ***[Source.md](https://resource.mc-schale.com/Samples/Source)*** 中的相关内容
 
 ## 测试
 
@@ -69,14 +69,14 @@
 
 注意，以下更新日志均代表最新构建版本更新日志
 
-***[Java版资源包](https://github.com/MC-Schale-Server/Resource-packs/blob/main/Server1/ResourcePack(JavaEdition)/Changelog.md)***
+***[Java版资源包](https://resource.mc-schale.com/Server1/ResourcePack(JavaEdition)/Changelog)***
 
-***[基岩版资源包](https://github.com/MC-Schale-Server/Resource-packs/blob/main/Server1/ResourcePack(BedrockEdition)/Changelog.md)***
+***[基岩版资源包](https://resource.mc-schale.com/Server1/ResourcePack(BedrockEdition)/Changelog)***
 
-***[圆转方资源包](https://github.com/MC-Schale-Server/Resource-packs/blob/main/%E5%9C%86%E8%BD%AC%E6%96%B9%E6%8B%93%E5%B1%95%E5%8C%85%20For%20Java%20Edition/Changelog.md)***
+***[圆转方资源包](https://resource.mc-schale.com/%E5%9C%86%E8%BD%AC%E6%96%B9%E6%8B%93%E5%B1%95%E5%8C%85%20For%20Java%20Edition/Changelog)***
 
 ## 相关链接
 
-***[构建规则](https://github.com/MC-Schale-Server/Resource-packs/blob/main/Rules.md)***
+***[构建规则](https://resource.mc-schale.com/Rules)***
 
-***[其他文件](https://github.com/MC-Schale-Server/Resource-packs/blob/main/Others/Illustrate.md)***
+***[其他文件](https://resource.mc-schale.com/Others/Illustrate)***
