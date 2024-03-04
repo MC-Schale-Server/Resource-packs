@@ -67,6 +67,8 @@
 
 ## 更新日志
 
+注意，以下更新日志均代表最新构建版本更新日志
+
 ***[Java版资源包](https://github.com/MC-Schale-Server/Resource-packs/blob/main/Server1/ResourcePack(JavaEdition)/Changelog.md)***
 
 ***[基岩版资源包](https://github.com/MC-Schale-Server/Resource-packs/blob/main/Server1/ResourcePack(BedrockEdition)/Changelog.md)***
