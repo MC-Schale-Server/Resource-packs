@@ -15,6 +15,8 @@
 
 *注意：新建的分支仅作为服务器实装版本的备份保留(分支命名为实装当天的日期)*
 
+*备份分支仅在GitHub和GitLab中创建*
+
 **基岩版资源包已发布正式版，并已在 `MC-Schale 一服` 实装**
 
 **Resource Park for Bedrock Edition has been released now,it has come in Server `MC-Schale 1.0` .**
