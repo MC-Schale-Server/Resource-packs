@@ -109,7 +109,7 @@ jobs:
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
           asset_path: ./circle-to-square-newest-build.zip
-          asset_name: circle.to.square.For.Java.Edition-newest-build.zip
+          asset_name: Circle.to.Square.For.JavaEdition-newest-build.zip
           asset_content_type: application/zip
 
       - name: Upload BedrockEdition Asset (as .mcpack)
