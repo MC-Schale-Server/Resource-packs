@@ -4,6 +4,16 @@
 
  - 计划于未来更新光环模型(预计于4月初前完成)
 
+### r1.10.0 `2024/03/14`
+
+- 此版本为 `3/14` 节日更新的正式版，由 `TPOD` 构建
+- 同步了以下JE上的更改
+- 添加了 `lang\zh_cn.json` 中 `16` 个唱片的名称---RP17
+- 修改了 `lang\en_us.json` 中 `music_disc_mall.desc` 的名称为 `Irasshaimase` ---RP16
+- 替换了 `record` 声音文件夹中 `mall.ogg` 的音乐为 `Irasshaimase` ---RP15
+- 修改了 `pianting` 材质文件夹中 `16` 个画的材质---RP14
+- 新增了 `pianting` 材质文件夹中 `14` 个画的材质---RP13
+
 ### b1.9.3 build.2 `2024/03/11`
 
 - 此版本由 `TPOD` 构建
