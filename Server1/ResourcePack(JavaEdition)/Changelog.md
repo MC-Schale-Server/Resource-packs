@@ -4,21 +4,30 @@
 
  - 暂无计划
 
-### b1.9.2 build.1 `2024/03/11`
+### rp1.10.0 `2024/03/14`
+
+ - 此版本为 `3/14` 节日更新的预览版，由 `bdlvl` 构建
+ - 添加了 `lang\zh_cn.json` 中 `16` 个唱片的名称---RP17
+ - 修改了 `lang\en_us.json` 中 `music_disc_mall.desc` 的名称为 `Irasshaimase` ---RP16
+ - 替换了 `record` 声音文件夹中 `mall.ogg` 的音乐为 `Irasshaimase` ---RP15
+ - 修改了 `pianting` 材质文件夹中 `16` 个画的材质---RP14
+ - 新增了 `pianting` 材质文件夹中 `14` 个画的材质---RP13
+
+### b1.9.2 rebuild.1 `2024/03/11`
 
  - 此版本由 `bdlvl` 构建
- - 修改了一幅画的贴图为 `轨道交通网络示意图`---RP12
+ - 修改了一幅画的材质为 `轨道交通网络示意图`---RP12
 
 ### b1.9.2 `2024/02/13`
 
  - 此版本由 `bdlvl` 构建
- - 修改了 `item` 贴图文件夹中 `warped_sign.png` 与 `warped_hanging_sign.png` 的材质---RP10
+ - 修改了 `item` 材质文件夹中 `warped_sign.png` 与 `warped_hanging_sign.png` 的材质---RP10
 
 ### b1.9.1 `2024/02/11`
 
  - 此版本由 `bdlvl` 构建
  - 修改了 `entity\signs\warped.png` 的材质---RP8
- - 修改了 `block` 贴图文件夹中 `polished_deepslate.png` , `activator_rail.png` 与 `activator_rail_on.png` 的材质---RP7
+ - 修改了 `block` 材质文件夹中 `polished_deepslate.png` , `activator_rail.png` 与 `activator_rail_on.png` 的材质---RP7
  - 修改了 `lang\en_us.json` 中 `4` 个物品的文本---RP6
 
 ### r1.9.0 `2024/02/08`
@@ -35,12 +44,12 @@
 ### b1.8.3 rebuild.1 `2024/02/07`
 
  - 此版本由 `bdlvl` 构建
- - 修改了 `mob_effect` 中 `5` 个效果的材质---RP2
+ - 修改了 `mob_effect` 材质文件夹中 `5` 个效果的材质---RP2
 
 ### b1.8.3 `2024/02/06`
 
  - 此版本由 `bdlvl` 构建
- - 添加了 `mob_effect` 中 `33` 个效果的材质---RP1
+ - 新增了 `mob_effect` 材质文件夹中 `33` 个效果的材质---RP1
 
 ### b1.8.2 `2024/02/03`
 
