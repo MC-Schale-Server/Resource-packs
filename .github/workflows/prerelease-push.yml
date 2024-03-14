@@ -39,12 +39,7 @@ jobs:
       uses: actions/checkout@v3
 
     # Create zip files for different assets
-    - name: Package Circle to Square as ZIP
-      run: |
-        cd 圆转方拓展包\ For\ Java\ Edition
-        zip -r ../circle-to-square-newest-build.zip .
-
-    - name: Package and Rename BedrockEdition ResourcePack
+    - name: Package and Rename  BedrockEdition ResourcePack
       run: |
         cd 'Server1/ResourcePack(BedrockEdition)'
         zip -r ../../bedrock-edition-newest-build.zip .
@@ -62,12 +57,6 @@ jobs:
       # Checkout the repository
       - name: Checkout code
         uses: actions/checkout@v3
-
-      # Create a zip file from "圆转方拓展包 For Java Edition" folder
-      - name: Package Circle to Square as ZIP
-        run: |
-          cd 圆转方拓展包\ For\ Java\ Edition
-          zip -r ../circle-to-square-newest-build.zip .
 
       # Package BedrockEdition ResourcePack as ZIP and rename it to .mcpack
       - name: Package and Rename BedrockEdition ResourcePack
@@ -101,17 +90,6 @@ jobs:
           prerelease: true
 
       # Upload all assets to the created GitHub release
-      - name: Upload Circle to Square Asset
-        id: upload_circle_asset
-        uses: actions/upload-release-asset@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./circle-to-square-newest-build.zip
-          asset_name: Circle.to.Square.For.JavaEdition-newest-build.zip
-          asset_content_type: application/zip
-
       - name: Upload BedrockEdition Asset (as .mcpack)
         id: upload_bedrock_asset
         uses: actions/upload-release-asset@v1
