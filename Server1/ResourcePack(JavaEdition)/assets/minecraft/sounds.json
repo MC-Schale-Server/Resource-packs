@@ -3,7 +3,7 @@
     "sounds": [
       {
         "name": "metro/base/Site-broadcast"
-      } 
+      }
     ],
     "subtitle": "站点播报"
   },
@@ -35,7 +35,7 @@
     "sounds": [
       {
         "name": "metro/line/1_shimoekoharu/sp_bxh/1"
-      } 
+      }
     ],
     "subtitle": "站点播报"
   },
@@ -43,7 +43,7 @@
     "sounds": [
       {
         "name": "metro/line/1_shimoekoharu/sp_bxh/2"
-      } 
+      }
     ],
     "subtitle": "站点播报"
   },
@@ -51,7 +51,7 @@
     "sounds": [
       {
         "name": "metro/line/1_shimoekoharu/sp_bxh/3"
-      } 
+      }
     ],
     "subtitle": "站点播报"
   },
@@ -59,7 +59,7 @@
     "sounds": [
       {
         "name": "metro/line/1_shimoekoharu/sp_bxh/4"
-      } 
+      }
     ],
     "subtitle": "站点播报"
   },
@@ -67,7 +67,7 @@
     "sounds": [
       {
         "name": "metro/line/1_shimoekoharu/sp_bxh/5"
-      } 
+      }
     ],
     "subtitle": "站点播报"
   },
@@ -75,7 +75,7 @@
     "sounds": [
       {
         "name": "metro/line/1_shimoekoharu/sp_bxh/6"
-      } 
+      }
     ],
     "subtitle": "站点播报"
   },
@@ -83,7 +83,7 @@
     "sounds": [
       {
         "name": "metro/line/1_shimoekoharu/sp_bxh/7"
-      } 
+      }
     ],
     "subtitle": "站点播报"
   },
@@ -91,7 +91,7 @@
     "sounds": [
       {
         "name": "metro/line/1_shimoekoharu/sp_bxh/8"
-      } 
+      }
     ],
     "subtitle": "站点播报"
   },
@@ -99,7 +99,7 @@
     "sounds": [
       {
         "name": "metro/line/1_shimoekoharu/sp_bxh/9"
-      } 
+      }
     ],
     "subtitle": "站点播报"
   },
@@ -107,7 +107,7 @@
     "sounds": [
       {
         "name": "metro/line/1_shimoekoharu/sp_bxh/10"
-      } 
+      }
     ],
     "subtitle": "站点播报"
   },
@@ -115,7 +115,7 @@
     "sounds": [
       {
         "name": "metro/line/1_shimoekoharu/sp_bxh/11"
-      } 
+      }
     ],
     "subtitle": "站点播报"
   },
@@ -123,7 +123,7 @@
     "sounds": [
       {
         "name": "metro/line/1_shimoekoharu/sp_bxh/12"
-      } 
+      }
     ],
     "subtitle": "站点播报"
   },
@@ -131,7 +131,7 @@
     "sounds": [
       {
         "name": "metro/line/1_shimoekoharu/bxh_sp/1"
-      } 
+      }
     ],
     "subtitle": "站点播报"
   },
@@ -139,7 +139,7 @@
     "sounds": [
       {
         "name": "metro/line/1_shimoekoharu/bxh_sp/2"
-      } 
+      }
     ],
     "subtitle": "站点播报"
   },
@@ -147,7 +147,7 @@
     "sounds": [
       {
         "name": "metro/line/1_shimoekoharu/bxh_sp/3"
-      } 
+      }
     ],
     "subtitle": "站点播报"
   },
@@ -155,7 +155,7 @@
     "sounds": [
       {
         "name": "metro/line/1_shimoekoharu/bxh_sp/4"
-      } 
+      }
     ],
     "subtitle": "站点播报"
   },
@@ -163,7 +163,7 @@
     "sounds": [
       {
         "name": "metro/line/1_shimoekoharu/bxh_sp/5"
-      } 
+      }
     ],
     "subtitle": "站点播报"
   },
@@ -171,7 +171,7 @@
     "sounds": [
       {
         "name": "metro/line/1_shimoekoharu/bxh_sp/6"
-      } 
+      }
     ],
     "subtitle": "站点播报"
   },
@@ -179,7 +179,7 @@
     "sounds": [
       {
         "name": "metro/line/1_shimoekoharu/bxh_sp/7"
-      } 
+      }
     ],
     "subtitle": "站点播报"
   },
@@ -187,7 +187,7 @@
     "sounds": [
       {
         "name": "metro/line/1_shimoekoharu/bxh_sp/8"
-      } 
+      }
     ],
     "subtitle": "站点播报"
   },
@@ -195,7 +195,7 @@
     "sounds": [
       {
         "name": "metro/line/1_shimoekoharu/bxh_sp/9"
-      } 
+      }
     ],
     "subtitle": "站点播报"
   },
@@ -203,7 +203,7 @@
     "sounds": [
       {
         "name": "metro/line/1_shimoekoharu/bxh_sp/10"
-      } 
+      }
     ],
     "subtitle": "站点播报"
   },
@@ -211,7 +211,7 @@
     "sounds": [
       {
         "name": "metro/line/1_shimoekoharu/bxh_sp/11"
-      } 
+      }
     ],
     "subtitle": "站点播报"
   },
@@ -219,7 +219,7 @@
     "sounds": [
       {
         "name": "metro/line/1_shimoekoharu/bxh_sp/12"
-      } 
+      }
     ],
     "subtitle": "站点播报"
   },
@@ -227,7 +227,7 @@
     "sounds": [
       {
         "name": "others/C4"
-      } 
+      }
     ],
     "subtitle": "C4安放"
   },
@@ -235,7 +235,7 @@
     "sounds": [
       {
         "name": "others/gogogo"
-      } 
+      }
     ],
     "subtitle": "出发！"
   },
@@ -333,7 +333,7 @@
         "name": "metro/line/2_hayaseyuuka/tso_mp/6"
       }
     ],
-  "subtitle": "站点播报"
+    "subtitle": "站点播报"
   },
   "metro.2.hy.main_u7": {
     "sounds": [
