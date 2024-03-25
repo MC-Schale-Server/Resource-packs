@@ -5,7 +5,7 @@
         "name": "metro/base/Site-broadcast"
       }
     ],
-    "subtitle": "站点播报"
+    "subtitle": "播报提示"
   },
   "new.sounds.phigros": {
     "sounds": [
@@ -37,7 +37,7 @@
         "name": "others/C4"
       }
     ],
-    "subtitle": "C4安放"
+    "subtitle": "C4安放中"
   },
   "fix.creeper.primed": {
     "sounds": [
