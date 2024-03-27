@@ -458,6 +458,369 @@
       }
     ],
     "subtitle": "语音报站"
+  },
+
+
+
+  "metro.1.down_main.start.1": {
+    "sounds": [
+      {
+        "name": "metro/line/1/down_main/start/1"
+      }
+    ],
+    "subtitle": "语音报站"
+  },
+  "metro.1.down_main.boarding_platform.1": {
+    "sounds": [
+      {
+        "name": "metro/line/1/down_main/boarding_platform/1"
+      }
+    ],
+    "subtitle": "进站播报"
+  },
+  "metro.1.down_main.boarding_subway.1": {
+    "sounds": [
+      {
+        "name": "metro/line/1/down_main/boarding_subway/1"
+      }
+    ],
+    "subtitle": "语音报站"
+  },
+  "metro.1.down_main.start.2": {
+    "sounds": [
+      {
+        "name": "metro/line/1/down_main/start/2"
+      }
+    ],
+    "subtitle": "语音报站"
+  },
+  "metro.1.down_main.boarding_platform.2": {
+    "sounds": [
+      {
+        "name": "metro/line/1/down_main/boarding_platform/2"
+      }
+    ],
+    "subtitle": "进站播报"
+  },
+  "metro.1.down_main.boarding_subway.2": {
+    "sounds": [
+      {
+        "name": "metro/line/1/down_main/boarding_subway/2"
+      }
+    ],
+    "subtitle": "语音报站"
+  },
+  "metro.1.down_main.start.3": {
+    "sounds": [
+      {
+        "name": "metro/line/1/down_main/start/3"
+      }
+    ],
+    "subtitle": "语音报站"
+  },
+  "metro.1.down_main.boarding_platform.3": {
+    "sounds": [
+      {
+        "name": "metro/line/1/down_main/boarding_platform/3"
+      }
+    ],
+    "subtitle": "进站播报"
+  },
+  "metro.1.down_main.boarding_subway.3": {
+    "sounds": [
+      {
+        "name": "metro/line/1/down_main/boarding_subway/3"
+      }
+    ],
+    "subtitle": "语音报站"
+  },
+  "metro.1.down_main.start.4": {
+    "sounds": [
+      {
+        "name": "metro/line/1/down_main/start/4"
+      }
+    ],
+    "subtitle": "语音报站"
+  },
+  "metro.1.down_main.boarding_platform.4": {
+    "sounds": [
+      {
+        "name": "metro/line/1/down_main/boarding_platform/4"
+      }
+    ],
+    "subtitle": "进站播报"
+  },
+  "metro.1.down_main.boarding_subway.4": {
+    "sounds": [
+      {
+        "name": "metro/line/1/down_main/boarding_subway/4"
+      }
+    ],
+    "subtitle": "语音报站"
+  },
+  "metro.1.down_main.start.5": {
+    "sounds": [
+      {
+        "name": "metro/line/1/down_main/start/5"
+      }
+    ],
+    "subtitle": "语音报站"
+  },
+  "metro.1.down_main.boarding_platform.5": {
+    "sounds": [
+      {
+        "name": "metro/line/1/down_main/boarding_platform/5"
+      }
+    ],
+    "subtitle": "进站播报"
+  },
+  "metro.1.down_main.boarding_subway.5": {
+    "sounds": [
+      {
+        "name": "metro/line/1/down_main/boarding_subway/5"
+      }
+    ],
+    "subtitle": "语音报站"
+  },
+  "metro.1.down_main.start.6": {
+    "sounds": [
+      {
+        "name": "metro/line/1/down_main/start/6"
+      }
+    ],
+    "subtitle": "语音报站"
+  },
+  "metro.1.down_main.boarding_platform.6": {
+    "sounds": [
+      {
+        "name": "metro/line/1/down_main/boarding_platform/6"
+      }
+    ],
+    "subtitle": "进站播报"
+  },
+  "metro.1.down_main.boarding_subway.6": {
+    "sounds": [
+      {
+        "name": "metro/line/1/down_main/boarding_subway/6"
+      }
+    ],
+    "subtitle": "语音报站"
+  },
+  "metro.1.down_main.start.7": {
+    "sounds": [
+      {
+        "name": "metro/line/1/down_main/start/7"
+      }
+    ],
+    "subtitle": "语音报站"
+  },
+  "metro.1.down_main.boarding_platform.7": {
+    "sounds": [
+      {
+        "name": "metro/line/1/down_main/boarding_platform/7"
+      }
+    ],
+    "subtitle": "进站播报"
+  },
+  "metro.1.down_main.boarding_subway.7": {
+    "sounds": [
+      {
+        "name": "metro/line/1/down_main/boarding_subway/7"
+      }
+    ],
+    "subtitle": "语音报站"
+  },
+  "metro.1.down_main.start.8": {
+    "sounds": [
+      {
+        "name": "metro/line/1/down_main/start/8"
+      }
+    ],
+    "subtitle": "语音报站"
+  },
+  "metro.1.down_main.boarding_platform.8": {
+    "sounds": [
+      {
+        "name": "metro/line/1/down_main/boarding_platform/8"
+      }
+    ],
+    "subtitle": "进站播报"
+  },
+  "metro.1.down_main.boarding_subway.8": {
+    "sounds": [
+      {
+        "name": "metro/line/1/down_main/boarding_subway/8"
+      }
+    ],
+    "subtitle": "语音报站"
+  },
+  "metro.1.down_main.start.9": {
+    "sounds": [
+      {
+        "name": "metro/line/1/down_main/start/9"
+      }
+    ],
+    "subtitle": "语音报站"
+  },
+  "metro.1.down_main.boarding_platform.9": {
+    "sounds": [
+      {
+        "name": "metro/line/1/down_main/boarding_platform/9"
+      }
+    ],
+    "subtitle": "进站播报"
+  },
+  "metro.1.down_main.boarding_subway.9": {
+    "sounds": [
+      {
+        "name": "metro/line/1/down_main/boarding_subway/9"
+      }
+    ],
+    "subtitle": "语音报站"
+  },
+  "metro.1.down_main.start.10": {
+    "sounds": [
+      {
+        "name": "metro/line/1/down_main/start/10"
+      }
+    ],
+    "subtitle": "语音报站"
+  },
+  "metro.1.down_main.boarding_platform.10": {
+    "sounds": [
+      {
+        "name": "metro/line/1/down_main/boarding_platform/10"
+      }
+    ],
+    "subtitle": "进站播报"
+  },
+  "metro.1.down_main.boarding_subway.10": {
+    "sounds": [
+      {
+        "name": "metro/line/1/down_main/boarding_subway/10"
+      }
+    ],
+    "subtitle": "语音报站"
+  },
+  "metro.1.down_main.start.11": {
+    "sounds": [
+      {
+        "name": "metro/line/1/down_main/start/11"
+      }
+    ],
+    "subtitle": "语音报站"
+  },
+  "metro.1.down_main.boarding_platform.11": {
+    "sounds": [
+      {
+        "name": "metro/line/1/down_main/boarding_platform/11"
+      }
+    ],
+    "subtitle": "进站播报"
+  },
+  "metro.1.down_main.boarding_subway.11": {
+    "sounds": [
+      {
+        "name": "metro/line/1/down_main/boarding_subway/11"
+      }
+    ],
+    "subtitle": "语音报站"
+  },
+  "metro.1.down_main.start.12": {
+    "sounds": [
+      {
+        "name": "metro/line/1/down_main/start/12"
+      }
+    ],
+    "subtitle": "语音报站"
+  },
+  "metro.1.down_main.boarding_platform.12": {
+    "sounds": [
+      {
+        "name": "metro/line/1/down_main/boarding_platform/12"
+      }
+    ],
+    "subtitle": "进站播报"
+  },
+  "metro.1.down_main.boarding_subway.12": {
+    "sounds": [
+      {
+        "name": "metro/line/1/down_main/boarding_subway/12"
+      }
+    ],
+    "subtitle": "语音报站"
+  },
+  "metro.1.down_main.start.13": {
+    "sounds": [
+      {
+        "name": "metro/line/1/down_main/start/13"
+      }
+    ],
+    "subtitle": "语音报站"
+  },
+  "metro.1.down_main.boarding_platform.13": {
+    "sounds": [
+      {
+        "name": "metro/line/1/down_main/boarding_platform/13"
+      }
+    ],
+    "subtitle": "进站播报"
+  },
+  "metro.1.down_main.boarding_subway.13": {
+    "sounds": [
+      {
+        "name": "metro/line/1/down_main/boarding_subway/13"
+      }
+    ],
+    "subtitle": "语音报站"
+  },
+  "metro.1.down_main.start.14": {
+    "sounds": [
+      {
+        "name": "metro/line/1/down_main/start/14"
+      }
+    ],
+    "subtitle": "语音报站"
+  },
+  "metro.1.down_main.boarding_platform.14": {
+    "sounds": [
+      {
+        "name": "metro/line/1/down_main/boarding_platform/14"
+      }
+    ],
+    "subtitle": "进站播报"
+  },
+  "metro.1.down_main.boarding_subway.14": {
+    "sounds": [
+      {
+        "name": "metro/line/1/down_main/boarding_subway/14"
+      }
+    ],
+    "subtitle": "语音报站"
+  },
+  "metro.1.down_main.start.15": {
+    "sounds": [
+      {
+        "name": "metro/line/1/down_main/start/15"
+      }
+    ],
+    "subtitle": "语音报站"
+  },
+  "metro.1.down_main.boarding_platform.15": {
+    "sounds": [
+      {
+        "name": "metro/line/1/down_main/boarding_platform/15"
+      }
+    ],
+    "subtitle": "进站播报"
+  },
+  "metro.1.down_main.boarding_subway.15": {
+    "sounds": [
+      {
+        "name": "metro/line/1/down_main/boarding_subway/15"
+      }
+    ],
+    "subtitle": "语音报站"
   }
 
 
