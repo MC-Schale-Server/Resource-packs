@@ -7,7 +7,7 @@
 ### b1.10.1 build.2 `2024/04/01`
 
  - 此版本由 `bdlvl` 构建
- - 修改了 `block\rail.png` 与 `entity\minecart.png` 的材质---RP19
+ - 修改了 `block\rail.png` 与 `entity\minecart.png` 的材质---RP20
 
 ### b1.10.1 build.1 `2024/03/21`
 
