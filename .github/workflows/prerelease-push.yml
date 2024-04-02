@@ -30,7 +30,7 @@ jobs:
           echo "Deleted the tag 'newest-build'"
 
   build_and_package_assets:
-    needs: cleanup_and_publish
+    needs: cleanup_files
     runs-on: ubuntu-latest
 
     steps:
