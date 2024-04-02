@@ -5,7 +5,7 @@ on:
     branches: [ main ]  # 替换为您的默认分支名称
 
 jobs:
-  cleanup_and_publish:
+  cleanup_files:
     runs-on: ubuntu-latest
 
     steps:
