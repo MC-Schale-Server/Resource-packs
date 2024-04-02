@@ -71,12 +71,12 @@
 
 注意，以下更新日志均代表最新构建版本更新日志
 
-***[Java版资源包更新日志](https://resource.mc-schale.com/Server1/ResourcePack(JavaEdition)/Changelog)***
+***[Java版资源包更新日志](https://resource.mc-schale.com/Server1/ResourcePack(JavaEdition)/Changelogs)***
 
-***[基岩版资源包更新日志](https://resource.mc-schale.com/Server1/ResourcePack(BedrockEdition)/Changelog)***
+***[基岩版资源包更新日志](https://resource.mc-schale.com/Server1/ResourcePack(BedrockEdition)/Changelogs)***
 
 ## 相关链接
 
 ***[构建规则](https://resource.mc-schale.com/Rules)***
 
-***[其他文件](https://resource.mc-schale.com/Others/Illustrate)***
+***[其他文件](https://resource.mc-schale.com/Others/Illustrations)***
