@@ -34,27 +34,29 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    # Checkout the repository
-    - name: Checkout code
-      uses: actions/checkout@v3
+      # Checkout the repository
+      - name: Checkout code
+        uses: actions/checkout@v3
 
-    # Create zip files for different assets
-    - name: Package and Rename BedrockEdition ResourcePack
-      run: |
-        cd 'Server1/ResourcePack(BedrockEdition)'
-        zip -r ../../bedrock-edition-newest-build.zip .
-        mv ../../bedrock-edition-newest-build.zip ../../bedrock-edition-newest-build.mcpack
+      # Package BedrockEdition ResourcePack as ZIP and rename it to .mcpack
+      - name: Package and Rename BedrockEdition ResourcePack
+        run: |
+          cd 'Server1/ResourcePack(BedrockEdition)'
+          zip -r ../../bedrock-edition-newest-build.zip .
+          mv ../../bedrock-edition-newest-build.zip ../../bedrock-edition-newest-build.mcpack
 
-    - name: Package JavaEdition ResourcePack as ZIP
-      run: |
-        cd 'Server1/ResourcePack(JavaEdition)'
-        zip -r ../../java-edition-newest-build.zip .
+      # Create a zip file from JavaEdition folder
+      - name: Package JavaEdition ResourcePack as ZIP
+        run: |
+          cd 'Server1/ResourcePack(JavaEdition)'
+          zip -r ../../java-edition-newest-build.zip .
 
   build-and-publish-all-assets:
     needs:build_and_package_assets
     runs-on: ubuntu-latest
 
     steps:
+
       - name: Set Release Version
         id: set_version
         run: echo ::set-output name=VERSION::newest-build
@@ -67,7 +69,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # This token is automatically available to the action
         with:
           tag_name: newest-build
-          release_name: 最新构建
+          release_name: 最新开发构建版本(自动发布版本)
           body: "此预发布版本由Github Action自动构建发布。"
           draft: false
           prerelease: true
