@@ -51,6 +51,7 @@ jobs:
         zip -r ../../java-edition-newest-build.zip .
 
   build-and-publish-all-assets:
+    needs:build_and_package_assets
     runs-on: ubuntu-latest
 
     steps:
