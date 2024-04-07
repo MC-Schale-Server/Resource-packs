@@ -54,24 +54,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Checkout the repository
-      - name: Checkout code
-        uses: actions/checkout@v3
-
-      # Package BedrockEdition ResourcePack as ZIP and rename it to .mcpack
-      - name: Package and Rename BedrockEdition ResourcePack
-        run: |
-          cd 'Server1/ResourcePack(BedrockEdition)'
-          zip -r ../../bedrock-edition-newest-build.zip .
-          mv ../../bedrock-edition-newest-build.zip ../../bedrock-edition-newest-build.mcpack
-
-      # Create a zip file from JavaEdition folder
-      - name: Package JavaEdition ResourcePack as ZIP
-        run: |
-          cd 'Server1/ResourcePack(JavaEdition)'
-          zip -r ../../java-edition-newest-build.zip .
-
-      # Define the release version (这里我们简单地使用 'newest-build'，也可以从项目中的某个文件或构建信息中获取)
       - name: Set Release Version
         id: set_version
         run: echo ::set-output name=VERSION::newest-build
