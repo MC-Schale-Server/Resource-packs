@@ -29,28 +29,8 @@ jobs:
           curl -X DELETE -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" $TAG_DELETE_URL
           echo "Deleted the tag 'newest-build'"
 
-  build_and_package_assets:
+  package-and-publish-all-assets:
     needs: cleanup_files
-    runs-on: ubuntu-latest
-
-    steps:
-    # Checkout the repository
-    - name: Checkout code
-      uses: actions/checkout@v3
-
-    # Create zip files for different assets
-    - name: Package and Rename  BedrockEdition ResourcePack
-      run: |
-        cd 'Server1/ResourcePack(BedrockEdition)'
-        zip -r ../../bedrock-edition-newest-build.zip .
-        mv ../../bedrock-edition-newest-build.zip ../../bedrock-edition-newest-build.mcpack
-
-    - name: Package JavaEdition ResourcePack as ZIP
-      run: |
-        cd 'Server1/ResourcePack(JavaEdition)'
-        zip -r ../../java-edition-newest-build.zip .
-
-  build-and-publish-all-assets:
     runs-on: ubuntu-latest
 
     steps:
