@@ -11,15 +11,13 @@
 
 在这里，你可以看到我们 *正在进行的* 和 *准备进行的* **一切修改**
 
-您也可以在这里提前获取我们的 `测试版资源包`
+您也可以在这里提前获取我们的 `构建版资源包`
 
 *注意：新建的分支仅作为服务器主要实装版本的备份保留(分支命名为实装当天的日期)*
 
-*备份分支仅在GitHub和GitLab中创建*
+**基岩版资源包已发布正式版，并已在 `MC-Schale 服务器` 实装**
 
-**基岩版资源包已发布正式版，并已在 `MC-Schale 一服` 实装**
-
-**Resource Park for Bedrock Edition has been released now,it has come in Server `MC-Schale 1.0` .**
+**Resource Park for Bedrock Edition has been released now,it has come in `MC-Schale Server` .**
 
 ## 服务器资源包安装版本
 
@@ -53,9 +51,9 @@
 
 您也可以通过下面的链接来下载对应版本的最新发行版(此版本仅包含安装于服务器上的版本)
 
-***[Java版资源包发行版](https://github.com/MC-Schale-Server/Resource-packs/releases/download/JE_Server1_Release_1.9.0/Resource-Pack_JE_Server1_r1.9.0.zip)***
+***[Java版资源包发行版](https://github.com/MC-Schale-Server/Resource-packs/releases/download/JE_Server1_Release_1.9.0/Resource-Pack_JE_Server1_r1.11.0.zip)***
 
-***[基岩版资源包发行版](https://github.com/MC-Schale-Server/Resource-packs/releases/download/BE_Server1_Release_1.9.0/Resource-Pack_BE_Server1_r1.9.0.mcpack)***
+***[基岩版资源包发行版](https://github.com/MC-Schale-Server/Resource-packs/releases/download/BE_Server1_Release_1.9.0/Resource-Pack_BE_Server1_r1.11.1.mcpack)***
 
 您也可以通过下载 ***[整个 `存储库` 中的内容](https://codeload.github.com/MC-Schale-Server/Resource-packs/zip/refs/heads/main)*** 来自定义您需要的内容，您可以在这个库中下载到我们引用到的 `参考模板` 或 `引用到的文件` ，相关内容请参考  ***[Source.md](https://resource.mc-schale.com/Samples/Source)*** 中的相关内容
 
