@@ -1,10 +1,10 @@
 {
-  "metro.other.announcement": {
+  "metro.ring.unknown": {
     "category": "player",
     "min_distance": 1000.0,
     "sounds": [
       {
-        "name": "sounds/metro/base/Site-broadcast",
+        "name": "sounds/metro/ring/unknown",
         "stream":true
       }
     ]

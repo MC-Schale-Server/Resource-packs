@@ -1,8 +1,8 @@
 {
-  "metro.other.announcement": {
+  "metro.ring.unknown": {
     "sounds": [
       {
-        "name": "metro/base/Site-broadcast"
+        "name": "metro/ring/unknown"
       }
     ],
     "subtitle": "播报提示"
