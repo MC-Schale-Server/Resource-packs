@@ -14,7 +14,7 @@
     "min_distance": 1000.0,
     "sounds": [
       {
-        "name": "sounds/phigros",
+        "name": "sounds/others/phigros",
         "stream":true
       }
     ]
@@ -24,7 +24,7 @@
     "min_distance": 1000.0,
     "sounds": [
       {
-        "name": "sounds/phigros3.0",
+        "name": "sounds/others/phigros3.0",
         "stream":true
       }
     ]
@@ -34,7 +34,7 @@
     "min_distance": 1000.0,
     "sounds": [
       {
-        "name": "sounds/triangles",
+        "name": "sounds/others/triangles",
         "stream":true
       }
     ]
