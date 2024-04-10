@@ -10,7 +10,7 @@
   "new.sounds.phigros": {
     "sounds": [
       {
-        "name": "phigros"
+        "name": "others/phigros"
       }
     ],
     "subtitle": "Phigros，启动！"
@@ -18,7 +18,7 @@
   "new.sounds.phigros3.0": {
     "sounds": [
       {
-        "name": "phigros3.0"
+        "name": "others/phigros3.0"
       }
     ],
     "subtitle": "Phigros3.0，启动！"
@@ -26,7 +26,7 @@
   "new.sounds.triangles": {
     "sounds": [
       {
-        "name": "triangles"
+        "name": "others/triangles"
       }
     ],
     "subtitle": "osu!(lazer)，启动！"
