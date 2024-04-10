@@ -2,11 +2,11 @@ name: Package and Publish Pre-Release on Push
 
 on:
   push:
-    branches: [ main ]  # 替换为您的默认分支名称
+    branches: [ main ]
 
 jobs:
   cleanup_files:
-    runs-on: macos-latest
+    runs-on: ubuntu-latest
 
     steps:
       # 删除带有 'newest-build' 标签的预发布版本及标签
@@ -31,7 +31,7 @@ jobs:
 
   package-and-publish-all-assets:
     needs: cleanup_files
-    runs-on: macos-latest
+    runs-on: ubuntu-latest
 
     steps:
       # Checkout the repository
