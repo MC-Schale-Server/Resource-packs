@@ -77,6 +77,4 @@
 
 ## 相关链接
 
-***[构建规则](https://resource.mc-schale.com/Rules)***
-
 ***[其他文件](https://resource.mc-schale.com/Others/Illustrations)***
