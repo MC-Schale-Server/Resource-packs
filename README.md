@@ -57,7 +57,7 @@
 
 ***[基岩版资源包发行版](https://github.com/MC-Schale-Server/Resource-packs/releases/download/BE_Server1_Release_1.9.0/Resource-Pack_BE_Server1_r1.11.1.mcpack)***
 
-您也可以通过下载 ***[整个 `存储库` 中的内容](https://codeload.github.com/MC-Schale-Server/Resource-packs/zip/refs/heads/main)*** 来自定义您需要的内容，您可以在这个库中下载到我们引用到的 `参考模板` 或 `引用到的文件` ，相关内容请参考  ***[Source.md](https://resource.mc-schale.com/Samples/Sources)*** 中的相关内容
+您也可以通过下载 ***[整个 `存储库` 中的内容](https://codeload.github.com/MC-Schale-Server/Resource-packs/zip/refs/heads/main)*** 来自定义您需要的内容，您可以在这个库中下载到我们引用到的 `参考模板` 或 `引用到的文件` ，相关内容请参考  ***[Sources.md](https://resource.mc-schale.com/Samples/Sources)*** 中的相关内容
 
 ## 测试
 
