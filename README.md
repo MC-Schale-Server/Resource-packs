@@ -15,10 +15,6 @@
 
 *注意：新建的分支仅作为服务器主要实装版本的备份保留(分支命名为实装当天的日期)*
 
-**基岩版资源包已发布正式版，并已在 `MC-Schale 服务器` 实装**
-
-**Resource Park for Bedrock Edition has been released now,it has come in `MC-Schale Server` .**
-
 ## 服务器资源包安装版本
 
 **当前服务器已实装版本及实装日期**
