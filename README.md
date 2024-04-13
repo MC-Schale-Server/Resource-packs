@@ -73,6 +73,8 @@
 
 ## 相关链接
 
+***[服务器目录索引页](https://www.mc-schale.com/othersites/Markdown/Index/)***
+
 ***[参考内容](https://resource.mc-schale.com/Samples/Sources)***
 
 ***[其他文件](https://resource.mc-schale.com/Others/Illustrations)***
