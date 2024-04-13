@@ -1,5 +1,7 @@
 ## 来源
 
+返回[服务器目录索引页](https://www.mc-schale.com/othersites/Markdown/Index/)
+
 本存储库的资源包模板来自于：
 
 1. [`Java Edition` 原版资源包](https://github.com/MC-Schale-Server/Resource-packs/tree/main/Samples/ResourcePack%201.20.1%20Java%20Edition%20Backup/assets) 来自于 **Mojang Studios**
