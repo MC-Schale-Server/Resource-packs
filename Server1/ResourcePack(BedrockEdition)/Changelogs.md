@@ -1,6 +1,6 @@
 ## 更新日志 `Bedrock Edition`
 
-###返回[服务器目录索引页](https://www.mc-schale.com/othersites/Markdown/Index/)
+### 返回[服务器目录索引页](https://www.mc-schale.com/othersites/Markdown/Index/)
 
 ### **当前计划(当此处有多个计划时，将从上往下依次完成)**
 
