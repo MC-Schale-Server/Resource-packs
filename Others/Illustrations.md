@@ -1,3 +1,5 @@
+返回[服务器目录索引页](https://www.mc-schale.com/othersites/Markdown/Index/)
+
 1.[`End_Poem/end1.txt`](https://github.com/MC-Schale-Server/Resource-packs/blob/main/Others/End_Poem/end1.txt) [`End_Poem/end2.txt`](https://github.com/MC-Schale-Server/Resource-packs/blob/main/Others/End_Poem/end2.txt) [`End_Poem/end3.txt`](https://github.com/MC-Schale-Server/Resource-packs/blob/main/Others/End_Poem/end3.txt) 为之前使用过的终末之诗文本
 
 2.[`End_Poem/end4.txt`](https://github.com/MC-Schale-Server/Resource-packs/blob/main/Others/End_Poem/end4.txt) 为当前使用的终末之诗文本
