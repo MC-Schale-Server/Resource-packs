@@ -17,6 +17,8 @@
 
 ## 服务器资源包安装版本
 
+**[发行版版本号说明](https://resource.mc-schale.com/Version_Info)**
+
 **当前服务器已实装版本及实装日期**
 
 **Java版：** `r1.10.3`
