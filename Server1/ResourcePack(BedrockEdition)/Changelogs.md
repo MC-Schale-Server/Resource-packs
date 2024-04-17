@@ -7,9 +7,15 @@
  - 计划于未来更新光环模型(预计在5月或6月完成并实装)
  - 完成数据包的制作，将部分修改贴图的物品迁入自定义命名空间内的资源数据
 
+### s1.10.3 rp.2 `2024/04/17`
+
+ - 此版本为 `4/16` 节日更新的预发行版本，由 `bdlvl` 构建，未完全同步Java版修改
+ - 修改了 `texts\zh_CN.lang` 中 `item.record_mall.desc` 的名称为 `Guruguru Usagi` ---RP28
+ - 修改了 `texts\en_US.lang` 中 `item.record_mall.desc` 的名称为 `Guruguru Usagi` ---RP29`
+
 ### s1.10.3 rp.1 `2024/04/15`
 
- - 此版本为 `4/16` 节日更新的预发行版，此版本由 `TPOD` 构建，未完全同步Java版修改
+ - 此版本为 `4/16` 节日更新的预发行版本，由 `TPOD` 构建，未完全同步Java版修改
  - 替换了 `music/game/records` 声音文件夹中 `mall.ogg` 的音乐为 `Guruguru Usagi` ---RP27
 
 ### b1.10.2 build.2 `2024/04/08`
