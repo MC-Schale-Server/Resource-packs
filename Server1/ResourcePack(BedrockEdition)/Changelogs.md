@@ -12,6 +12,7 @@
  - 此版本为 `4/16` 节日更新的预发行版本，由 `bdlvl` 构建，未完全同步Java版修改
  - 修改了 `texts\zh_CN.lang` 中 `item.record_mall.desc` 的名称为 `Guruguru Usagi` ---RP28
  - 修改了 `texts\en_US.lang` 中 `item.record_mall.desc` 的名称为 `Guruguru Usagi` ---RP29
+ - 修改了 `painting` 材质文件夹中 `kz.png` 的 `26` 个画的材质 ---RP26
 
 ### s1.10.3 rp.1 `2024/04/15`
 
