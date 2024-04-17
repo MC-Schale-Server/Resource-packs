@@ -6,9 +6,15 @@
 
  - 完成数据包的制作，将部分修改贴图的物品迁入自定义命名空间内的资源数据
 
+### r1.10.3 repatched.1 `2024/04/17`
+
+ - 此版本为 `4/16` 节日更新的重新修补版本，由 `bdlvl` 构建
+ - 修改了 `lang\zh_cn.json` 中 `music_disc_mall.desc` 的名称为 `Guruguru Usagi` ---RP28
+ - 修改了 `lang\en_us.json` 中 `music_disc_mall.desc` 的名称为 `Guruguru Usagi` ---RP29
+
 ### r1.10.3 `2024/04/15`
 
- - 此版本为 `4/16` 节日更新的正式发行版，此版本由 `bdlvl` 构建
+ - 此版本为 `4/16` 节日更新的正式发行版本，由 `bdlvl` 构建
  - 修改了 `pianting` 材质文件夹中 `26` 个画的材质---RP26
  - 替换了 `records` 声音文件夹中 `mall.ogg` 的音乐为 `Guruguru Usagi` ---RP27
 
