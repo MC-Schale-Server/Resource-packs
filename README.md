@@ -23,19 +23,23 @@
 
 **Java版：** `r1.10.3 repatched.1`
 
-**基岩版：** `r1.10.3`
+**基岩版：** `s1.10.3 repatched.1`
 
-**实装日期：** `2024/04/17`
+**实装日期：** `2024/04/20`
 
-**下次实装版本及实装时间(*请注意，此次更新为精确时间*)**
+**下次实装版本及实装时间(*预计*)**
 
-**Java版：** *`r1.10.3 repatched.1`*
+**Java版：** *`r1.11.0`*
 
-**基岩版：** *`r1.10.3 repatched.1`*
+**基岩版：** *`r1.11.0`*
 
-**确定实装时间：** *`4月第二次周常维护`*
+**预计实装时间：** *`2024/05或2024/06`*
 
-***此版本计划针对基岩版资源包进行更新，此次更新为基岩版修复了一些BUG，Java版无资源包更新***
+***注意：预计的时间不一定准确，实装时间可能推迟或提前***
+
+***此版本计划主要针对基岩版资源包进行更新***
+
+***由于个人事程安排原因，该更新已被暂缓(From TPOD)***
 
 ## 下载
 
@@ -47,9 +51,9 @@
 
 您也可以通过下面的链接来下载对应版本的最新发行版(此版本仅包含安装于服务器上的版本)
 
-***[Java版资源包发行版](https://github.com/MC-Schale-Server/Resource-packs/releases/download/Total_Server1_Release_1.10.3/Resource-Pack_JE_Server1_r1.10.3_Repatched.zip)***
+***[Java版资源包发行版](https://github.com/MC-Schale-Server/Resource-packs/releases/download/Total_Server1_Release_1.10.3/Resource-Pack_JE_Server1_r1.10.3_Repatched_1.zip)***
 
-***[基岩版资源包发行版](https://github.com/MC-Schale-Server/Resource-packs/releases/download/Total_Server1_Release_1.10.3/Resource-Pack_BE_Server1_r1.10.3.mcpack)***
+***[基岩版资源包发行版](https://github.com/MC-Schale-Server/Resource-packs/releases/download/Total_Server1_Release_1.10.3/Resource-Pack_BE_Server1_r1.10.3_Repatched_1.mcpack)***
 
 您也可以通过下载 ***[整个 `存储库` 中的内容](https://codeload.github.com/MC-Schale-Server/Resource-packs/zip/refs/heads/main)*** 来自定义您需要的内容，您可以在这个库中下载到我们引用到的 `参考模板` 或 `引用到的文件` ，相关内容请参考  ***[Sources.md](https://resource.mc-schale.com/Samples/Sources)*** 中的相关内容
 
